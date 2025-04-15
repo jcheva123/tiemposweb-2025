@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados - Estival 2024-2025</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🏁 Resultados - Estival 2024-2025</h1>
+    </header>
+    <main>
+        <section id="date-selector">
+            <label for="fecha-select">Seleccionar Fecha:</label>
+            <select id="fecha-select">
+                <option value="">-- Elegir Fecha --</option>
+                <!-- Fechas 1 a 18 -->
+                <option value="Fecha 1">Fecha 1</option>
+                <option value="Fecha 2">Fecha 2</option>
+                <option value="Fecha 3">Fecha 3</option>
+                <option value="Fecha 4">Fecha 4</option>
+                <option value="Fecha 5">Fecha 5</option>
+                <option value="Fecha 6">Fecha 6</option>
+                <option value="Fecha 7">Fecha 7</option>
+                <option value="Fecha 8">Fecha 8</option>
+                <option value="Fecha 9">Fecha 9</option>
+                <option value="Fecha 10">Fecha 10</option>
+                <option value="Fecha 11">Fecha 11</option>
+                <option value="Fecha 12">Fecha 12</option>
+                <option value="Fecha 13">Fecha 13</option>
+                <option value="Fecha 14">Fecha 14</option>
+                <option value="Fecha 15">Fecha 15</option>
+                <option value="Fecha 16">Fecha 16</option>
+                <option value="Fecha 17">Fecha 17</option>
+                <option value="Fecha 18">Fecha 18</option>
+            </select>
+            <button onclick="loadRaces()">Cargar Carreras</button>
+        </section>
+        <section id="race-list">
+            <h2>Carreras Disponibles</h2>
+            <ul></ul>
+        </section>
+        <section id="results">
+            <h2>Resultados</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Pos.</th>
+                            <th>Nro.</th>
+                            <th>Nombre</th>
+                            <th>Recargo</th>
+                            <th>T. Final</th>
+                            <th>Vueltas</th>
+                            <th>Penalización</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
