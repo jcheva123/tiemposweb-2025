@@ -1,0 +1,68 @@
+{
+  "time": "20:42",
+  "results": [
+    {
+      "position": 1,
+      "number": 10,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "t_final": "1:21.416",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 46,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "t_final": "1:25.361",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 38,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:25.980",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 14,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "t_final": "1:28.704",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "t_final": "1:30.398",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 44,
+      "name": "DAILOFF Nehuen",
+      "rec": 1.0,
+      "t_final": "1:30.482",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 94,
+      "name": "JACOB Ruben 1:30.399 2 1:32.399 5 1",
+      "rec": 0,
+      "t_final": "2\"",
+      "laps": null,
+      "penalty": "ADELANTAMIENTO"
+    }
+  ]
+}
