@@ -1,0 +1,68 @@
+{
+  "time": "20:40",
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "t_final": "1:22.619",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "t_final": "1:23.215",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 44,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "t_final": "1:28.026",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "t_final": "1:28.134",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 86,
+      "name": "LARREGUI Hernan",
+      "rec": 0.0,
+      "t_final": "1:29.076",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 9,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "t_final": "1:29.688",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 82,
+      "name": "BENITEZ Gaston 0:02.868 0 0:02.868Exc Ap.x",
+      "rec": 0,
+      "t_final": "auto",
+      "laps": null,
+      "penalty": "carrera"
+    }
+  ]
+}
