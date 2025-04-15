@@ -10,40 +10,43 @@ async function loadRaces() {
     raceList.innerHTML = "";
     resultsBody.innerHTML = "";
 
-    // Lista de todos los posibles tipos de carreras, en orden
     const raceTypes = [
-        // Series (máximo 13)
         "serie1", "serie2", "serie3", "serie4", "serie5",
         "serie6", "serie7", "serie8", "serie9", "serie10",
         "serie11", "serie12", "serie13",
-        // Repechajes (máximo 6, típico 4)
         "repechaje1", "repechaje2", "repechaje3", "repechaje4",
         "repechaje5", "repechaje6",
-        // Semifinales (siempre 4)
         "semifinal1", "semifinal2", "semifinal3", "semifinal4",
-        // Prefinal (siempre 1)
         "prefinal",
-        // Final (siempre 1)
         "final"
     ];
 
-    // Cargar carreras existentes
     for (const race of raceTypes) {
         try {
-            const response = await fetch(`./resultados/${fechaSelect}/${race}.json`);
-            if (response.ok) {
-                const li = document.createElement("li");
-                // Formatear nombre amigable
-                const raceName = race
-                    .replace(/^serie(\d+)$/, "Serie $1")
-                    .replace(/^repechaje(\d+)$/, "Repechaje $1")
-                    .replace(/^semifinal(\d+)$/, "Semifinal $1")
-                    .replace("prefinal", "Prefinal")
-                    .replace("final", "Final");
-                li.textContent = raceName;
-                li.onclick = () => loadResults(fechaSelect, race);
-                raceList.appendChild(li);
+            // Verificar caché
+            const cacheKey = `${fechaSelect}_${race}`;
+            const cachedData = localStorage.getItem(cacheKey);
+            let data;
+
+            if (cachedData) {
+                data = JSON.parse(cachedData);
+            } else {
+                const response = await fetch(`https://raw.githubusercontent.com/jcheva123/tiemposweb-2025/main/resultados/${fechaSelect}/${race}.json`);
+                if (!response.ok) continue;
+                data = await response.json();
+                localStorage.setItem(cacheKey, JSON.stringify(data));
             }
+
+            const li = document.createElement("li");
+            const raceName = race
+                .replace(/^serie(\d+)$/, "Serie $1")
+                .replace(/^repechaje(\d+)$/, "Repechaje $1")
+                .replace(/^semifinal(\d+)$/, "Semifinal $1")
+                .replace("prefinal", "Prefinal")
+                .replace("final", "Final");
+            li.textContent = raceName;
+            li.onclick = () => loadResults(fechaSelect, race);
+            raceList.appendChild(li);
         } catch (error) {
             // Ignorar si el JSON no existe
         }
@@ -56,9 +59,17 @@ async function loadRaces() {
 
 async function loadResults(fecha, race) {
     try {
-        const response = await fetch(`./resultados/${fecha}/${race}.json`);
-        if (!response.ok) throw new Error("JSON no encontrado");
-        const data = await response.json();
+        const cacheKey = `${fecha}_${race}`;
+        let data = localStorage.getItem(cacheKey);
+
+        if (data) {
+            data = JSON.parse(data);
+        } else {
+            const response = await fetch(`https://raw.githubusercontent.com/jcheva123/tiemposweb-2025/main/resultados/${fecha}/${race}.json`);
+            if (!response.ok) throw new Error("JSON no encontrado");
+            data = await response.json();
+            localStorage.setItem(cacheKey, JSON.stringify(data));
+        }
 
         const tbody = document.querySelector("table tbody");
         tbody.innerHTML = "";
