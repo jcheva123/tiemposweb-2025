@@ -1,0 +1,50 @@
+{
+  "time": "20:58",
+  "results": [
+    {
+      "position": 1,
+      "number": 42,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:23.114",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 22,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "t_final": "1:24.477",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 88,
+      "name": "MADRIL Braian",
+      "rec": 0.0,
+      "t_final": "1:25.418",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 92,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:27.251",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "0:01.923",
+      "laps": "0",
+      "penalty": null
+    }
+  ]
+}
