@@ -1,0 +1,113 @@
+{
+  "time": "00:43",
+  "results": [
+    {
+      "position": 1,
+      "number": 10,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "t_final": "2:10.216",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "t_final": "2:10.778",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "t_final": "2:11.979",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 11,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "t_final": "2:13.248",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 39,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "t_final": "2:14.316",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "2:15.162",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 5,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "t_final": "2:15.623",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 47,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "t_final": "2:15.854",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 40,
+      "name": "MORENO Maximiliano",
+      "rec": 0.0,
+      "t_final": "2:16.407",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 10,
+      "number": 9,
+      "name": "ALTAMIRANO Roy",
+      "rec": 2.0,
+      "t_final": "2:16.523",
+      "laps": "8",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 11,
+      "number": 35,
+      "name": "ROUAIX Javier",
+      "rec": 0.0,
+      "t_final": "2:17.037",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 12,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "t_final": "2:18.574",
+      "laps": "8",
+      "penalty": null
+    }
+  ]
+}
