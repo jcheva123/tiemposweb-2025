@@ -1,0 +1,86 @@
+{
+  "time": "22:24",
+  "results": [
+    {
+      "position": 1,
+      "number": 112,
+      "name": "MOYANO Antonio",
+      "rec": 0.0,
+      "t_final": "1:22.875",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 26,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "t_final": "1:23.514",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 93,
+      "name": "GOMEZ Emanuel",
+      "rec": 1.0,
+      "t_final": "1:24.275",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 117,
+      "name": "OVEJERO Facundo",
+      "rec": 1.0,
+      "t_final": "1:25.799",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "t_final": "1:26.595",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 34,
+      "name": "PETRACCI Gaston 1:27.603 0 1:27.603 5 APER X",
+      "rec": 0,
+      "t_final": "BOXES",
+      "laps": null,
+      "penalty": "MARC"
+    },
+    {
+      "position": 7,
+      "number": 70,
+      "name": "PEREYRA Javier",
+      "rec": 0.0,
+      "t_final": "1:28.327",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 98,
+      "name": "SALAZAR Alfredo",
+      "rec": 0.0,
+      "t_final": "1:30.990",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 83,
+      "name": "CALVO Jose Maria 1:30.122 2 1:32.122",
+      "rec": 0,
+      "t_final": "POR",
+      "laps": null,
+      "penalty": "ENGRILLAMIENTO"
+    }
+  ]
+}
