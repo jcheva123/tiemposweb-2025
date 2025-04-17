@@ -1,0 +1,77 @@
+{
+  "time": "09:25",
+  "results": [
+    {
+      "position": 1,
+      "number": 28,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "t_final": "1:18.665",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 84,
+      "name": "BREZINA Federico",
+      "rec": 0.0,
+      "t_final": "1:19.414",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 49,
+      "name": "DUPONT Braian",
+      "rec": 0.0,
+      "t_final": "1:19.866",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 109,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "t_final": "1:20.177",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 111,
+      "name": "BRAY Juan Pablo",
+      "rec": 0.0,
+      "t_final": "1:22.835",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 61,
+      "name": "OROZCO Gustavo",
+      "rec": 0.0,
+      "t_final": "1:23.509",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 121,
+      "name": "SALAZAR Alfredo",
+      "rec": 0.0,
+      "t_final": "1:24.005",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 77,
+      "name": "PONCE Esteban",
+      "rec": 0.0,
+      "t_final": "1:25.648",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
