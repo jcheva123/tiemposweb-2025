@@ -1,0 +1,68 @@
+{
+  "time": "21:23",
+  "results": [
+    {
+      "position": 1,
+      "number": 21,
+      "name": "SCHMIT Nahuel",
+      "rec": 0.0,
+      "t_final": "1:23.181",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 35,
+      "name": "ROUAIX Javier",
+      "rec": 0.0,
+      "t_final": "1:24.800",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 133,
+      "name": "SALDAMANDO Fernando",
+      "rec": 1.0,
+      "t_final": "1:25.271",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 33,
+      "name": "PALMA Nicolas",
+      "rec": 0.0,
+      "t_final": "1:25.554",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 70,
+      "name": "PEREYRA Javier",
+      "rec": 1.0,
+      "t_final": "1:27.747",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 88,
+      "name": "MADRIL Braian",
+      "rec": 1.0,
+      "t_final": "1:29.016",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 64,
+      "name": "PEREZ Marcelo",
+      "rec": 1.0,
+      "t_final": "1:30.957",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    }
+  ]
+}
