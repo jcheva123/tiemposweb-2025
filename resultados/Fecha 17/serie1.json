@@ -1,0 +1,68 @@
+{
+  "time": "20:57",
+  "results": [
+    {
+      "position": 1,
+      "number": 9,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "t_final": "1:25.942",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "t_final": "1:26.549",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 43,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "t_final": "1:28.468",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 25,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "t_final": "1:30.007",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 29,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "t_final": "1:30.236",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 83,
+      "name": "CALVO Jose Maria",
+      "rec": 1.0,
+      "t_final": "1:32.732",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 55,
+      "name": "ANTINORI Axel",
+      "rec": 2.0,
+      "t_final": "1:41.143",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    }
+  ]
+}

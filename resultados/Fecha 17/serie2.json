@@ -1,0 +1,68 @@
+{
+  "time": "20:58",
+  "results": [
+    {
+      "position": 1,
+      "number": 26,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "t_final": "1:24.085",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 22,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "t_final": "1:26.035",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "1:26.679",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 92,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:29.917",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 96,
+      "name": "MANZOTTI Gustavo",
+      "rec": 0.0,
+      "t_final": "1:33.765",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 52,
+      "name": "ANASTASIO Nicolas",
+      "rec": 1.0,
+      "t_final": "1:35.591",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 120,
+      "name": "BENITEZ Matias",
+      "rec": 0.0,
+      "t_final": "1:36.963",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
