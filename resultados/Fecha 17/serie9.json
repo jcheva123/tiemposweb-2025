@@ -1,0 +1,59 @@
+{
+  "time": "21:38",
+  "results": [
+    {
+      "position": 1,
+      "number": 18,
+      "name": "MELGER Julian",
+      "rec": 0.0,
+      "t_final": "1:25.611",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 39,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "t_final": "1:26.120",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 14,
+      "name": "OYOLA Matias Sebasti 1:24.612 2 1:26.612 5 2\" Por MP",
+      "rec": 39.0,
+      "t_final": "y",
+      "laps": "63",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 23,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:26.626",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 63,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "t_final": "1:28.290",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 84,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "t_final": "1:28.955",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}

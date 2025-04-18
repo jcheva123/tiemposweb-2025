@@ -1,0 +1,59 @@
+{
+  "time": "21:41",
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "t_final": "1:23.358",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 16,
+      "name": "PEREZ Sebastian",
+      "rec": 1.0,
+      "t_final": "1:26.550",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 3,
+      "number": 11,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 1.0,
+      "t_final": "1:27.168",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 121,
+      "name": "BLANC Lucas",
+      "rec": 0.0,
+      "t_final": "1:28.375",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 58,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "t_final": "1:28.536",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "t_final": "1:29.527",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
