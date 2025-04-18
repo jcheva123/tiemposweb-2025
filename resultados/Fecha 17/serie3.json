@@ -1,0 +1,50 @@
+{
+  "time": "21:08",
+  "results": [
+    {
+      "position": 1,
+      "number": 10,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "t_final": "1:24.564",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 136,
+      "name": "CUTINI SAMOSIUK Santino",
+      "rec": 0.0,
+      "t_final": "1:25.598",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 67,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "t_final": "1:26.856",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 62,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:27.059",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 94,
+      "name": "JACOB Ruben",
+      "rec": 0.0,
+      "t_final": "1:33.310",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
