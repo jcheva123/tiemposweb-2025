@@ -1,0 +1,59 @@
+{
+  "time": "21:18",
+  "results": [
+    {
+      "position": 1,
+      "number": 128,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "t_final": "1:23.059",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "t_final": "1:23.619",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 44,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "t_final": "1:27.528",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 73,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "t_final": "1:28.607",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 37,
+      "name": "FRITZ Javier Hernan",
+      "rec": 0.0,
+      "t_final": "1:28.755",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 82,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "t_final": "1:29.281",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
