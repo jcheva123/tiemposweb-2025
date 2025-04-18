@@ -1,0 +1,59 @@
+{
+  "time": "21:25",
+  "results": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "t_final": "1:22.268",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 15,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "t_final": "1:23.963",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 46,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "t_final": "1:24.548",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 42,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:26.302",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 34,
+      "name": "PETRACCI Gaston",
+      "rec": 1.0,
+      "t_final": "1:30.240",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 90,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "t_final": "0:38.050",
+      "laps": "2",
+      "penalty": null
+    }
+  ]
+}
