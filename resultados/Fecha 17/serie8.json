@@ -1,0 +1,59 @@
+{
+  "time": "21:29",
+  "results": [
+    {
+      "position": 1,
+      "number": 47,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "t_final": "1:23.393",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "t_final": "1:24.249",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "t_final": "1:25.627",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 48,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "t_final": "1:25.926",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 40,
+      "name": "MORENO Maximiliano",
+      "rec": 0.0,
+      "t_final": "1:26.875",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 122,
+      "name": "PASCUAL Emanuel",
+      "rec": 0.0,
+      "t_final": "1:28.230",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
