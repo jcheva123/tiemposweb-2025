@@ -1,0 +1,77 @@
+{
+  "time": "22:43",
+  "results": [
+    {
+      "position": 1,
+      "number": 58,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "t_final": "1:24.294",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 34,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "t_final": "1:27.535",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 90,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "t_final": "1:28.371",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 52,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:28.934",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 83,
+      "name": "CALVO Jose Maria",
+      "rec": 0.0,
+      "t_final": "1:29.368",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 82,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "t_final": "1:29.693",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 92,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:31.279",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 37,
+      "name": "FRITZ Javier Hernan",
+      "rec": 0.0,
+      "t_final": "0:22.549",
+      "laps": "1",
+      "penalty": null
+    }
+  ]
+}
