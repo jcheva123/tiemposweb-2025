@@ -1,0 +1,50 @@
+{
+  "time": "21:40",
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "t_final": "1:22.590",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 31,
+      "name": "GRILL Leiza",
+      "rec": 0.0,
+      "t_final": "1:23.583",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 86,
+      "name": "LARREGUI Hernan",
+      "rec": 0.0,
+      "t_final": "1:23.978",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 58,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "t_final": "1:25.191",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 83,
+      "name": "CALVO Jose Maria",
+      "rec": 0.0,
+      "t_final": "1:27.669",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
