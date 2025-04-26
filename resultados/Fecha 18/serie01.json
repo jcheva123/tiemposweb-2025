@@ -1,0 +1,68 @@
+{
+  "time": "21:04",
+  "results": [
+    {
+      "position": 1,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "t_final": "1:20.772",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 71,
+      "name": "HOCK Gaston",
+      "rec": 0.0,
+      "t_final": "1:25.727",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 42,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:26.300",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 82,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "t_final": "1:26.979",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 64,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "t_final": "1:28.425",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 14,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "t_final": "1:30.695",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 9,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "t_final": "0:36.224",
+      "laps": "2",
+      "penalty": null
+    }
+  ]
+}
