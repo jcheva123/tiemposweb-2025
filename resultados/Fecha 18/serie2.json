@@ -1,0 +1,59 @@
+{
+  "time": "21:06",
+  "results": [
+    {
+      "position": 1,
+      "number": 16,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "t_final": "1:21.852",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 44,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "t_final": "1:22.600",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 29,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "t_final": "1:23.875",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 38,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:25.625",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 85,
+      "name": "LUCERO Sebastian",
+      "rec": 0.0,
+      "t_final": "1:25.914",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 23,
+      "name": "CHIAPARO Nicolas",
+      "rec": 1.0,
+      "t_final": "1:27.556",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    }
+  ]
+}
