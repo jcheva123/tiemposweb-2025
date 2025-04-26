@@ -1,0 +1,68 @@
+{
+  "time": "21:32",
+  "results": [
+    {
+      "position": 1,
+      "number": 25,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "t_final": "1:22.427",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "t_final": "1:23.432",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 47,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "t_final": "1:23.867",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 34,
+      "name": "PETRACCI Gaston",
+      "rec": 1.0,
+      "t_final": "1:23.937",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 53,
+      "name": "ANDRADE Joaquin",
+      "rec": 0.0,
+      "t_final": "1:24.856",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 73,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "t_final": "1:25.954",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 121,
+      "name": "BLANC Lucas",
+      "rec": 0.0,
+      "t_final": "1:26.409",
+      "laps": "5",
+      "penalty": null
+    }
+  ]
+}
