@@ -1,0 +1,68 @@
+{
+  "time": "21:25",
+  "results": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "t_final": "1:19.815",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "1:20.724",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 46,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "t_final": "1:23.268",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 67,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "t_final": "1:23.981",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 92,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:25.738",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 84,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "t_final": "1:26.317",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 88,
+      "name": "MADRIL Braian",
+      "rec": 0.0,
+      "t_final": "1:09.892",
+      "laps": "4",
+      "penalty": null
+    }
+  ]
+}
