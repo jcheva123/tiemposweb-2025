@@ -1,0 +1,77 @@
+{
+  "time": "21:03",
+  "results": [
+    {
+      "position": 1,
+      "number": 71,
+      "name": "HOCK Gaston",
+      "rec": 0.0,
+      "t_final": "1:27.751",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 55,
+      "name": "ANTINORI Axel",
+      "rec": 0.0,
+      "t_final": "1:28.705",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 42,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "t_final": "1:30.002",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 23,
+      "name": "CHIAPARO Nicolas",
+      "rec": 1.0,
+      "t_final": "1:31.385",
+      "laps": "5",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 117,
+      "name": "OVEJERO Facundo",
+      "rec": 0.0,
+      "t_final": "1:32.075",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 88,
+      "name": "MADRIL Braian",
+      "rec": 0.0,
+      "t_final": "1:32.498",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 85,
+      "name": "LUCERO Sebastian",
+      "rec": 0.0,
+      "t_final": "1:32.951",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 120,
+      "name": "BENITEZ Matias",
+      "rec": 0.0,
+      "t_final": "0:31.418",
+      "laps": "1",
+      "penalty": null
+    }
+  ]
+}
