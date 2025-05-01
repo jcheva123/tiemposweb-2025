@@ -1,0 +1,113 @@
+{
+  "time": "00:18",
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "2:10.584",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 5,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "t_final": "2:12.897",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "t_final": "2:13.385",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 133,
+      "name": "SALDAMANDO Fernando",
+      "rec": 1.0,
+      "t_final": "2:13.825",
+      "laps": "8",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 111,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "t_final": "2:14.225",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 14,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "t_final": "2:14.963",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 128,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "t_final": "2:15.483",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 25,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "t_final": "2:16.653",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 40,
+      "name": "MORENO Maximiliano",
+      "rec": 0.0,
+      "t_final": "2:17.396",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 10,
+      "number": 44,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "t_final": "2:17.551",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 11,
+      "number": 33,
+      "name": "PALMA Nicolas",
+      "rec": 0.0,
+      "t_final": "2:18.568",
+      "laps": "8",
+      "penalty": null
+    },
+    {
+      "position": 12,
+      "number": 10,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "t_final": "1:59.994",
+      "laps": "7",
+      "penalty": null
+    }
+  ]
+}
