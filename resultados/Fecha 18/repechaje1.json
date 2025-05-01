@@ -1,0 +1,95 @@
+{
+  "time": "21:01",
+  "results": [
+    {
+      "position": 1,
+      "number": 14,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "t_final": "1:27.374",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 41,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "t_final": "1:28.518",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 43,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "t_final": "1:29.995",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 136,
+      "name": "CUTINI SAMOSIUK Santino",
+      "rec": 0.0,
+      "t_final": "1:30.473",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 38,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:30.528",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 48,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "t_final": "1:31.166",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 37,
+      "name": "FRITZ Javier Hernan",
+      "rec": 0.0,
+      "t_final": "1:31.663",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 64,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "t_final": "1:35.386",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 94,
+      "name": "JACOB Ruben",
+      "rec": 0.0,
+      "t_final": "1:39.640",
+      "laps": "5",
+      "penalty": null
+    },
+    {
+      "position": 10,
+      "number": 121,
+      "name": "BLANC Lucas 1:39.641 0 1:39.641 5 2 Puestos por MP",
+      "rec": 64.0,
+      "t_final": "y",
+      "laps": "94",
+      "penalty": null
+    }
+  ]
+}
