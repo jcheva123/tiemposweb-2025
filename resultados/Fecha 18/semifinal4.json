@@ -1,0 +1,113 @@
+{
+  "time": "22:57",
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "t_final": "1:43.769",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 25,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "t_final": "1:46.381",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 40,
+      "name": "MORENO Maximiliano",
+      "rec": 0.0,
+      "t_final": "1:49.650",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 47,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "t_final": "1:49.872",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 67,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "t_final": "1:50.364",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 16,
+      "name": "PEREZ Sebastian 1:48.621 2",
+      "rec": 6.0,
+      "t_final": "2\"",
+      "laps": null,
+      "penalty": "MP"
+    },
+    {
+      "position": 7,
+      "number": 55,
+      "name": "ANTINORI Axel",
+      "rec": 0.0,
+      "t_final": "1:51.207",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 136,
+      "name": "CUTINI SAMOSIUK Santino",
+      "rec": 0.0,
+      "t_final": "1:52.030",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 26,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "t_final": "1:52.465",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 10,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "t_final": "1:53.505",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 11,
+      "number": 85,
+      "name": "LUCERO Sebastian",
+      "rec": 0.0,
+      "t_final": "1:57.274",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 12,
+      "number": 93,
+      "name": "GOMEZ Emanuel",
+      "rec": 1.0,
+      "t_final": "1:59.375",
+      "laps": "6",
+      "penalty": "Cono(s)"
+    }
+  ]
+}
