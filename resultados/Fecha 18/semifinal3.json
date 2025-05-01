@@ -1,0 +1,113 @@
+{
+  "time": "22:40",
+  "results": [
+    {
+      "position": 1,
+      "number": 133,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "t_final": "1:44.363",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 111,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "t_final": "1:46.122",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 33,
+      "name": "PALMA Nicolas",
+      "rec": 0.0,
+      "t_final": "1:47.892",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 8,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "t_final": "1:48.216",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 11,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "t_final": "1:48.609",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 22,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "t_final": "1:50.615",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 63,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "t_final": "1:50.755",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 58,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "t_final": "1:53.458",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 86,
+      "name": "LARREGUI Hernan",
+      "rec": 2.0,
+      "t_final": "1:54.427",
+      "laps": "6",
+      "penalty": "Cono(s)"
+    },
+    {
+      "position": 10,
+      "number": 90,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "t_final": "1:54.495",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 11,
+      "number": 117,
+      "name": "OVEJERO Facundo",
+      "rec": 0.0,
+      "t_final": "1:56.163",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 12,
+      "number": 46,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "t_final": "1:57.813",
+      "laps": "6",
+      "penalty": null
+    }
+  ]
+}
