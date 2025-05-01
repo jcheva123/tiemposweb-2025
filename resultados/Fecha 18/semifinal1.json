@@ -1,0 +1,113 @@
+{
+  "time": "21:54",
+  "results": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "t_final": "1:42.668",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 2,
+      "number": 10,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "t_final": "1:46.014",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 3,
+      "number": 14,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "t_final": "1:46.619",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 4,
+      "number": 39,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "t_final": "1:47.997",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 5,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "t_final": "1:49.334",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 6,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "t_final": "1:49.606",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 7,
+      "number": 7,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "t_final": "1:49.997",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 8,
+      "number": 29,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "t_final": "1:50.462",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 9,
+      "number": 62,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "t_final": "1:51.323",
+      "laps": "6",
+      "penalty": null
+    },
+    {
+      "position": 10,
+      "number": 19,
+      "name": "DUPONT Braian 1:51.615 2",
+      "rec": 6.0,
+      "t_final": "2\"",
+      "laps": null,
+      "penalty": "MP"
+    },
+    {
+      "position": 11,
+      "number": 43,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "t_final": "1:23.649",
+      "laps": "4",
+      "penalty": null
+    },
+    {
+      "position": 12,
+      "number": 53,
+      "name": "ANDRADE Joaquin",
+      "rec": 0.0,
+      "t_final": "1:38.156",
+      "laps": "3",
+      "penalty": null
+    }
+  ]
+}
