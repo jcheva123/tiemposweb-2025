@@ -1,0 +1,105 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 112,
+      "name": "MOYANO Antonio",
+      "rec": 82.875,
+      "rec_str": "1:22.875",
+      "t_final": "1:22.875",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 26,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 83.514,
+      "rec_str": "1:23.514",
+      "t_final": "1:23.514",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 93,
+      "name": "GOMEZ Emanuel",
+      "rec": 83.275,
+      "rec_str": "1:23.275",
+      "t_final": "1:24.275",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 117,
+      "name": "OVEJERO Facundo",
+      "rec": 84.799,
+      "rec_str": "1:24.799",
+      "t_final": "1:25.799",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 129,
+      "name": "ALZA Pablo",
+      "rec": 86.595,
+      "rec_str": "1:26.595",
+      "t_final": "1:26.595",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 34,
+      "name": "PETRACCI Gaston",
+      "rec": 87.603,
+      "rec_str": "1:27.603",
+      "t_final": "1:27.603",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "APER X CIRCULAR EN BOXES EN MARC"
+    },
+    {
+      "position": 7,
+      "number": 70,
+      "name": "PEREYRA Javier",
+      "rec": 88.327,
+      "rec_str": "1:28.327",
+      "t_final": "1:28.327",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 98,
+      "name": "SALAZAR Alfredo",
+      "rec": 90.99,
+      "rec_str": "1:30.990",
+      "t_final": "1:30.990",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 83,
+      "name": "CALVO Jose Maria",
+      "rec": 90.122,
+      "rec_str": "1:30.122",
+      "t_final": "1:32.122",
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "2\" POR MAL ENGRILLAMIENTO"
+    }
+  ]
+}
