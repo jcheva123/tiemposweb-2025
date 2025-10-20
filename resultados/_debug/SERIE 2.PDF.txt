@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:17
+Serie Nro. 02
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 1 VALLEJOS Luciano 1:21.608 0 1:21.608 5
+02 30 RESOLA Johnatan 1:23.421 0 1:23.421 5
+03 4 ROTH Claudio 1:23.632 0 1:23.632 5
+04 83 CALVO Jose Maria 1:26.833 0 1:26.833 5
+05 88 MADRIL Braian 99:99.999 0 99:99.999 N/L
+06 23 CHIAPARO Nicolas 99:99.999 0 99:99.999 N/L
+07 31 GRILL Leiza 99:99.999 0 99:99.999 N/L

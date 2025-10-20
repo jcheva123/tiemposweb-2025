@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:40
+Serie Nro. 06
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 7 MANCINI Esteban 1:22.619 0 1:22.619 5
+02 8 ROTH Ezequiel 1:23.215 0 1:23.215 5
+03 44 DAILOFF Nehuen 1:28.026 0 1:28.026 5
+04 129 ALZA Pablo 1:28.134 0 1:28.134 5
+05 86 LARREGUI Hernan 1:29.076 0 1:29.076 5
+06 9 ALTAMIRANO Roy 1:29.688 0 1:29.688 5
+07 82 BENITEZ Gaston 0:02.868 0 0:02.868 Exc Ap.x bajarse del auto en carrera

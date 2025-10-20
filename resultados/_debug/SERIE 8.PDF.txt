@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:57
+Serie Nro. 08
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 26 SCHIEBELBEIN Gabriel 1:23.490 0 1:23.490 5
+02 40 MORENO Maximiliano 1:24.003 0 1:24.003 5
+03 25 AUSILI Agustin 1:25.324 0 1:25.324 5
+04 62 ONORATO Nicolas 1:25.763 0 1:25.763 5
+05 73 TOLEDO Joaquin 1:27.874 0 1:27.874 5
+06 22 TODINO Juan 1:35.407 1 1:36.407 5 Cono(s)
+07 53 ANDRADE Joaquin 99:99.999 0 99:99.999 Exc

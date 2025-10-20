@@ -1,0 +1,16 @@
+Fecha 13/04/2025
+Hora 23:44
+Semifinal Nro. 03
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 10 BURGOS Sebastian 1:37.831 0 1:37.831 6
+02 16 PEREZ Sebastian 1:38.784 0 1:38.784 6
+03 93 GOMEZ Emanuel 1:40.313 0 1:40.313 6
+04 4 ROTH Claudio 1:41.045 0 1:41.045 6
+05 38 CAPUTO Nicolas 1:42.138 0 1:42.138 6
+06 33 PALMA Nicolas 1:42.466 0 1:42.466 6
+07 86 LARREGUI Hernan 1:43.555 0 1:43.555 6
+08 37 FRITZ Javier Hernan 1:44.289 0 1:44.289 6
+09 34 PETRACCI Gaston 1:44.613 0 1:44.613 6
+10 58 YUROVSKY Guillermo 1:45.762 1 1:46.762 6 Cono(s)
+11 95 LUIS Sebastian 1:46.928 0 1:46.928 6
+12 8 ROTH Ezequiel 0:19.893 0 0:19.893 1

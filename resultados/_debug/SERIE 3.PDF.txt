@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:22
+Serie Nro. 03
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 47 BONIVARDO Fernando 1:21.588 0 1:21.588 5
+02 5 FRANCHI Luciano 1:22.548 0 1:22.548 5
+03 35 ROUAIX Javier 1:23.737 0 1:23.737 5
+04 48 AUSILI Marcelo 1:26.362 0 1:26.362 5
+05 122 PASCUAL Emanuel 1:27.052 0 1:27.052 5
+06 95 LUIS Sebastian 1:29.481 0 1:29.481 5
+07 96 MANZOTTI Gustavo 1:30.077 0 1:30.077 5

@@ -1,0 +1,13 @@
+Fecha 14/04/2025
+Hora 00:16
+Prefinal
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 4 ROTH Claudio 1:36.182 0 1:36.182 6
+02 21 SCHMIT Nahuel 1:38.886 0 1:38.886 6
+03 14 OYOLA Matias Sebastian 1:39.910 0 1:39.910 6
+04 11 RODRIGUEZ Juan Cruz 1:40.510 0 1:40.510 6
+05 40 MORENO Maximiliano 1:41.531 0 1:41.531 6
+06 33 PALMA Nicolas 1:42.354 0 1:42.354 6
+07 86 LARREGUI Hernan 1:42.681 3 1:45.681 6 3" Por MP al 33
+08 39 REY Javier 1:47.086 0 1:47.086 6
+09 43 GARCIA Joaquin 1:47.087 0 1:47.087 6 4 Puestos por MP al 39

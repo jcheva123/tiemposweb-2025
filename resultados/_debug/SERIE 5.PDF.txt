@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:35
+Serie Nro. 05
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 10 BURGOS Sebastian 1:22.282 0 1:22.282 5
+02 3 PEREZ MELER Agustin 1:23.064 0 1:23.064 5
+03 70 PEREYRA Javier 1:28.616 0 1:28.616 5
+04 41 CUTINI Gustavo 1:29.028 0 1:29.028 5
+05 34 PETRACCI Gaston 1:27.374 2 1:29.374 5 Cono(s)
+06 133 SALDAMANDO Fernando 1:12.894 0 1:12.894 4
+07 98 SALAZAR Alfredo 0:56.732 0 0:56.732 3

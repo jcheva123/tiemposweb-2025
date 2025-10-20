@@ -1,0 +1,11 @@
+Fecha 13/04/2025
+Hora 20:16
+Serie Nro. 01
+Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
+01 16 PEREZ Sebastian 1:22.997 0 1:22.997 5
+02 121 BLANC Lucas 1:25.006 0 1:25.006 5
+03 120 BENITEZ Matias 1:28.296 0 1:28.296 5
+04 58 YUROVSKY Guillermo 1:28.498 0 1:28.498 5
+05 55 ANTINORI Axel 1:31.561 0 1:31.561 5
+06 94 JACOB Ruben 1:33.353 0 1:33.353 5
+07 111 HIDALGO Federico 99:99.999 0 99:99.999 N/L
