@@ -1,3 +1,4 @@
+[extractor=pdfplumber]
 Fecha 13/04/2025
 Hora 22:08
 Repechaje Nro. 01

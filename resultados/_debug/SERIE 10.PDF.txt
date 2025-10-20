@@ -1,3 +1,4 @@
+[extractor=pdfplumber]
 Fecha 13/04/2025
 Hora 21:08
 Serie Nro. 10

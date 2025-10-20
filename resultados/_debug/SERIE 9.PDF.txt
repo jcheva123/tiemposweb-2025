@@ -1,3 +1,4 @@
+[extractor=pdfplumber]
 Fecha 13/04/2025
 Hora 21:10
 Serie Nro. 09

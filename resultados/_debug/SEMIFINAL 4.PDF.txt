@@ -1,3 +1,4 @@
+[extractor=pdfplumber]
 Fecha 13/04/2025
 Hora 23:46
 Semifinal Nro. 04

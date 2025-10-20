@@ -1,3 +1,4 @@
+[extractor=pdfplumber]
 Fecha 13/04/2025
 Hora 20:17
 Serie Nro. 02
