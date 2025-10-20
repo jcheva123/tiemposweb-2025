@@ -1,68 +1,83 @@
 {
-  "time": "21:14",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
       "number": 3,
       "name": "PEREZ MELER Agustin",
-      "rec": 0.0,
+      "rec": 80.891,
+      "rec_str": "1:20.891",
       "t_final": "1:20.891",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 2,
       "number": 5,
       "name": "FRANCHI Luciano",
-      "rec": 0.0,
+      "rec": 82.532,
+      "rec_str": "1:22.532",
       "t_final": "1:22.532",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 3,
       "number": 47,
       "name": "BONIVARDO Fernando",
-      "rec": 0.0,
+      "rec": 83.506,
+      "rec_str": "1:23.506",
       "t_final": "1:23.506",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 4,
       "number": 43,
       "name": "GARCIA Joaquin",
-      "rec": 1.0,
+      "rec": 84.566,
+      "rec_str": "1:24.566",
       "t_final": "1:25.566",
-      "laps": "5",
-      "penalty": "Cono(s)"
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 5,
       "number": 117,
       "name": "OVEJERO Facundo",
-      "rec": 0.0,
+      "rec": 86.86,
+      "rec_str": "1:26.860",
       "t_final": "1:26.860",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 6,
       "number": 112,
       "name": "MOYANO Antonio",
-      "rec": 0.0,
+      "rec": 87.214,
+      "rec_str": "1:27.214",
       "t_final": "1:27.214",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 7,
       "number": 120,
       "name": "BENITEZ Matias",
-      "rec": 0.0,
+      "rec": 89.808,
+      "rec_str": "1:29.808",
       "t_final": "1:29.808",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     }
   ]
 }

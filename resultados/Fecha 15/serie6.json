@@ -1,41 +1,50 @@
 {
-  "time": "21:10",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
       "number": 63,
       "name": "MACAZAGA Nicolas",
-      "rec": 0.0,
+      "rec": 83.365,
+      "rec_str": "1:23.365",
       "t_final": "1:23.365",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 2,
       "number": 64,
       "name": "PEREZ Marcelo",
-      "rec": 0.0,
+      "rec": 85.315,
+      "rec_str": "1:25.315",
       "t_final": "1:25.315",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 3,
       "number": 48,
       "name": "AUSILI Marcelo",
-      "rec": 0.0,
+      "rec": 85.823,
+      "rec_str": "1:25.823",
       "t_final": "1:25.823",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 4,
       "number": 93,
       "name": "GOMEZ Emanuel",
-      "rec": 2.0,
+      "rec": 86.228,
+      "rec_str": "1:26.228",
       "t_final": "1:28.228",
-      "laps": "5",
-      "penalty": "Cono(s)"
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": "Cono(s)"
     }
   ]
 }

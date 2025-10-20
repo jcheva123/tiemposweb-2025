@@ -1,68 +1,83 @@
 {
-  "time": "20:22",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
       "number": 47,
       "name": "BONIVARDO Fernando",
-      "rec": 0.0,
+      "rec": 81.588,
+      "rec_str": "1:21.588",
       "t_final": "1:21.588",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 2,
       "number": 5,
       "name": "FRANCHI Luciano",
-      "rec": 0.0,
+      "rec": 82.548,
+      "rec_str": "1:22.548",
       "t_final": "1:22.548",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 3,
       "number": 35,
       "name": "ROUAIX Javier",
-      "rec": 0.0,
+      "rec": 83.737,
+      "rec_str": "1:23.737",
       "t_final": "1:23.737",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 4,
       "number": 48,
       "name": "AUSILI Marcelo",
-      "rec": 0.0,
+      "rec": 86.362,
+      "rec_str": "1:26.362",
       "t_final": "1:26.362",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 5,
       "number": 122,
       "name": "PASCUAL Emanuel",
-      "rec": 0.0,
+      "rec": 87.052,
+      "rec_str": "1:27.052",
       "t_final": "1:27.052",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 6,
       "number": 95,
       "name": "LUIS Sebastian",
-      "rec": 0.0,
+      "rec": 89.481,
+      "rec_str": "1:29.481",
       "t_final": "1:29.481",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 7,
       "number": 96,
       "name": "MANZOTTI Gustavo",
-      "rec": 0.0,
+      "rec": 90.077,
+      "rec_str": "1:30.077",
       "t_final": "1:30.077",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     }
   ]
 }

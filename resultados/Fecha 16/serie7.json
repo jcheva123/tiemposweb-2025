@@ -1,59 +1,72 @@
 {
-  "time": "20:51",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
       "number": 39,
       "name": "REY Javier",
-      "rec": 0.0,
+      "rec": 83.065,
+      "rec_str": "1:23.065",
       "t_final": "1:23.065",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 2,
       "number": 33,
       "name": "PALMA Nicolas",
-      "rec": 0.0,
+      "rec": 83.939,
+      "rec_str": "1:23.939",
       "t_final": "1:23.939",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 3,
       "number": 18,
       "name": "MELGER Julian",
-      "rec": 0.0,
+      "rec": 84.369,
+      "rec_str": "1:24.369",
       "t_final": "1:24.369",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 4,
       "number": 46,
       "name": "BALDUCHI Valentin",
-      "rec": 0.0,
+      "rec": 85.195,
+      "rec_str": "1:25.195",
       "t_final": "1:25.195",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 5,
       "number": 37,
       "name": "FRITZ Javier Hernan",
-      "rec": 0.0,
+      "rec": 85.617,
+      "rec_str": "1:25.617",
       "t_final": "1:25.617",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     },
     {
       "position": 6,
       "number": 29,
       "name": "PAGLIALUNGA Eros",
-      "rec": 0.0,
+      "rec": 85.922,
+      "rec_str": "1:25.922",
       "t_final": "1:25.922",
-      "laps": "5",
-      "penalty": null
+      "laps": 5,
+      "penalty": 0,
+      "penalty_note": null
     }
   ]
 }
