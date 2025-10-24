@@ -1,113 +1,138 @@
 {
-  "time": "22:40",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
-      "number": 133,
-      "name": "SALDAMANDO Fernando",
+      "number": 1,
+      "name": "VALLEJOS Luciano",
       "rec": 0.0,
-      "t_final": "1:44.363",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:36.896",
+      "t_final": "1:36.896",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 2,
-      "number": 111,
-      "name": "HIDALGO Federico",
+      "number": 7,
+      "name": "MANCINI Esteban",
       "rec": 0.0,
-      "t_final": "1:46.122",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:38.229",
+      "t_final": "1:39.229",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 3,
-      "number": 33,
-      "name": "PALMA Nicolas",
+      "number": 40,
+      "name": "MORENO Maximiliano",
       "rec": 0.0,
-      "t_final": "1:47.892",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:39.318",
+      "t_final": "1:39.318",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 4,
-      "number": 8,
-      "name": "ROTH Ezequiel",
+      "number": 42,
+      "name": "BREZINA Gonzalo",
       "rec": 0.0,
-      "t_final": "1:48.216",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:39.699",
+      "t_final": "1:39.699",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 5,
-      "number": 11,
-      "name": "RODRIGUEZ Juan Cruz",
+      "number": 26,
+      "name": "SCHIEBELBEIN Gabriel",
       "rec": 0.0,
-      "t_final": "1:48.609",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:40.615",
+      "t_final": "1:40.615",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 6,
-      "number": 22,
-      "name": "TODINO Juan",
+      "number": 73,
+      "name": "TOLEDO Joaquin",
       "rec": 0.0,
-      "t_final": "1:50.615",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:40.636",
+      "t_final": "1:40.636",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 7,
-      "number": 63,
-      "name": "MACAZAGA Nicolas",
+      "number": 20,
+      "name": "PERUGINI Flavio",
       "rec": 0.0,
-      "t_final": "1:50.755",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:41.797",
+      "t_final": "1:41.797",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 8,
-      "number": 58,
-      "name": "YUROVSKY Guillermo",
+      "number": 67,
+      "name": "COLTURI Fabian",
       "rec": 0.0,
-      "t_final": "1:53.458",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:42.150",
+      "t_final": "1:42.150",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 9,
-      "number": 86,
-      "name": "LARREGUI Hernan",
-      "rec": 2.0,
-      "t_final": "1:54.427",
-      "laps": "6",
-      "penalty": "Cono(s)"
+      "number": 16,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:42.397",
+      "t_final": "1:42.397",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 10,
-      "number": 90,
-      "name": "JACA Aaron",
+      "number": 122,
+      "name": "PASCUAL Emanuel",
       "rec": 0.0,
-      "t_final": "1:54.495",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:43.145",
+      "t_final": "1:43.145",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 11,
-      "number": 117,
-      "name": "OVEJERO Facundo",
+      "number": 90,
+      "name": "JACA Aaron",
       "rec": 0.0,
-      "t_final": "1:56.163",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:43.916",
+      "t_final": "1:43.916",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 12,
-      "number": 46,
-      "name": "BALDUCHI Valentin",
+      "number": 48,
+      "name": "AUSILI Marcelo",
       "rec": 0.0,
-      "t_final": "1:57.813",
-      "laps": "6",
-      "penalty": null
+      "rec_str": "1:47.372",
+      "t_final": "1:47.372",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
     }
   ]
 }

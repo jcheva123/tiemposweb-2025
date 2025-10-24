@@ -1,0 +1,13 @@
+/* Patch para posiciones (usa tu styles.css base). */
+body.compact #tbl thead th:nth-child(4),
+body.compact #tbl thead th:nth-child(5),
+body.compact #tbl thead th:nth-child(6),
+body.compact #tbl thead th:nth-child(7),
+body.compact #tbl thead th:nth-child(10),
+body.compact #tbl tbody td:nth-child(4),
+body.compact #tbl tbody td:nth-child(5),
+body.compact #tbl tbody td:nth-child(6),
+body.compact #tbl tbody td:nth-child(7),
+body.compact #tbl tbody td:nth-child(10) { display:none; }
+
+#tbl tbody td:nth-child(9){ font-weight:600; }

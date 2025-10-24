@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0b0f1a" />
+  <title>Tabla de posiciones — Estival</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="posiciones.css" />
+</head>
+<body>
+  <nav class="topbar">
+    <div class="topbar__wrap">
+      <button class="button" onclick="location.href='index.html'">⬅️ Resultados</button>
+      <div style="display:flex;gap:8px;align-items:center;">
+        <input id="q" class="select" placeholder="Buscar por nombre o N°" />
+        <button id="toggle-compact" class="button" aria-pressed="false">📱 Vista compacta</button>
+      </div>
+    </div>
+  </nav>
+
+  <header class="header">
+    <h1>🏆 Tabla de posiciones</h1>
+    <p class="header__sub"><span id="meta"></span></p>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="table-container">
+        <table class="table" id="tbl">
+          <thead>
+            <tr>
+              <th data-k="pos">Pos.</th>
+              <th data-k="nro">N°</th>
+              <th data-k="nombre">Nombre</th>
+              <th data-k="anterior">Anterior</th>
+              <th data-k="serie">Serie</th>
+              <th data-k="semif">Semif.</th>
+              <th data-k="prefinal">PF</th>
+              <th data-k="final">Final</th>
+              <th data-k="total">Total</th>
+              <th data-k="fin">Fin</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <a class="credit" href="http://www.primate.com.ar" target="_blank" rel="noopener">by PRIMATE ®</a>
+  </footer>
+
+  <script src="posiciones.js"></script>
+</body>
+</html>

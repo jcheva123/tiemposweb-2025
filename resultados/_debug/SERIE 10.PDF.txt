@@ -1,12 +1,12 @@
 [extractor=pdfplumber]
-Fecha 13/04/2025
-Hora 21:08
+Fecha 4/04/2025
+Hora 21:28
 Serie Nro. 10
 Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
-01 128 PIÑEYRO Julio Cesar 1:23.035 0 1:23.035 5
-02 2 ALTAMIRANO Kevin 1:23.723 0 1:23.723 5
-03 67 COLTURI Fabian 1:24.062 0 1:24.062 5
-04 63 MACAZAGA Nicolas 1:25.111 0 1:25.111 5
-05 90 JACA Aaron 1:26.160 0 1:26.160 5
-06 43 GARCIA Joaquin 1:27.689 0 1:27.689 5
-07 64 PEREZ Marcelo 1:28.598 0 1:28.598 5
+01 39 REY Javier 1:22.638 0 1:22.638 5
+02 7 MANCINI Esteban 1:23.494 0 1:23.494 5
+03 52 ANASTASIO Nicolas 1:24.356 0 1:24.356 5
+04 128 PIÑEYRO Julio Cesar 1:23.200 3 1:26.200 5 Cono(s)
+05 121 BLANC Lucas 1:26.525 0 1:26.525 5
+06 37 FRITZ Javier Hernan 1:26.829 0 1:26.829 5
+07 31 GRILL Leiza 1:27.378 0 1:27.378 5

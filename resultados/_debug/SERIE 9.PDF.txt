@@ -1,12 +1,12 @@
 [extractor=pdfplumber]
-Fecha 13/04/2025
-Hora 21:10
+Fecha 4/04/2025
+Hora 21:24
 Serie Nro. 09
 Pos. Nro. Nombre Tiempo Rec. T. Final Vtas. Penalizacion
-01 38 CAPUTO Nicolas 1:26.084 1 1:27.084 5 Cono(s)
-02 92 RAZQUIN Gonzalo 1:28.320 0 1:28.320 5
-03 112 MOYANO Antonio 1:28.720 0 1:28.720 5
-04 84 MARCOS Nehuen 1:29.904 0 1:29.904 5
-05 93 GOMEZ Emanuel 1:30.292 0 1:30.292 5
-06 42 BREZINA Gonzalo 1:09.235 0 1:09.235 4 Aper. x MP al 11
-07 11 RODRIGUEZ Juan Cruz 1:25.328 0 1:25.328 Exc Exc Parcial
+01 1 VALLEJOS Luciano 1:21.351 0 1:21.351 5
+02 8 ROTH Ezequiel 1:22.557 0 1:22.557 5
+03 18 MELGER Julian 1:23.443 0 1:23.443 5
+04 67 COLTURI Fabian 1:24.468 0 1:24.468 5
+05 53 ANDRADE Joaquin 1:25.537 0 1:25.537 5
+06 90 JACA Aaron 1:26.968 0 1:26.968 5
+07 84 MARCOS Nehuen 0:53.606 0 0:53.606 3

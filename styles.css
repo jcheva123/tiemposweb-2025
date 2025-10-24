@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;700&display=swap');
+
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     margin: 0;
     padding: 15px;
     background-color: #222;
@@ -19,6 +21,18 @@ header h1 {
     font-size: 2em;
     color: #ffcc00;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    animation: fadeInDown 1s ease-out;
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 main {
@@ -28,6 +42,10 @@ main {
 
 section {
     margin-bottom: 30px;
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
 }
 
 #date-selector {
@@ -61,14 +79,16 @@ section {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.2s;
 }
 
 #date-selector button:hover {
     background: #e6b800;
+    transform: scale(1.05);
 }
 
-#race-list h2 {
+#race-list h2,
+#results h2 {
     font-size: 1.5em;
     color: #ffcc00;
     margin-bottom: 10px;
@@ -89,17 +109,12 @@ section {
     border-radius: 4px;
     cursor: pointer;
     font-size: 0.9em;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.2s;
 }
 
 #race-list li:hover {
     background: #4a4a4a;
-}
-
-#results h2 {
-    font-size: 1.5em;
-    color: #ffcc00;
-    margin-bottom: 10px;
+    transform: scale(1.05);
 }
 
 .table-container {
@@ -131,9 +146,9 @@ td {
 }
 
 tbody tr:first-child {
-    background: #ffe066; /* Fondo claro para posición 1 */
+    background: #ffe066;
     font-weight: bold;
-    color: #fff; /* Texto blanco */
+    color: #fff;
 }
 
 tbody tr:nth-child(odd) {
@@ -145,7 +160,8 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
-    background: #555;
+    background: #666;
+    transition: background 0.2s;
 }
 
 .penalty {
@@ -164,7 +180,9 @@ tbody tr:hover {
         gap: 8px;
     }
 
-    #date-selector label, #fecha-select, #date-selector button {
+    #date-selector label,
+    #fecha-select,
+    #date-selector button {
         width: 100%;
         max-width: 300px;
     }
@@ -183,22 +201,13 @@ tbody tr:hover {
         padding: 5px;
     }
 
-    /* Columnas angostas */
-    th:nth-child(3), td:nth-child(3) /* Nombre */ {
-        min-width: 100px;
-    }
-
-    th:nth-child(5), td:nth-child(5) /* T. Final */ {
-        min-width: 90px;
-    }
-
-    th:nth-child(1), td:nth-child(1), /* Pos. */
-    th:nth-child(2), td:nth-child(2), /* Nro. */
-    th:nth-child(4), td:nth-child(4), /* Recargo */
-    th:nth-child(6), td:nth-child(6), /* Vueltas */
-    th:nth-child(7), td:nth-child(7) /* Penalización */ {
-        min-width: 45px;
-    }
+    th:nth-child(3), td:nth-child(3) { min-width: 100px; }
+    th:nth-child(5), td:nth-child(5) { min-width: 90px; }
+    th:nth-child(1), td:nth-child(1),
+    th:nth-child(2), td:nth-child(2),
+    th:nth-child(4), td:nth-child(4),
+    th:nth-child(6), td:nth-child(6),
+    th:nth-child(7), td:nth-child(7) { min-width: 45px; }
 }
 
 @media (max-width: 480px) {
@@ -218,20 +227,39 @@ tbody tr:hover {
         padding: 3px;
     }
 
-    /* Ajustar aún más */
-    th:nth-child(3), td:nth-child(3) /* Nombre */ {
-        min-width: 90px;
-    }
+    th:nth-child(3), td:nth-child(3) { min-width: 90px; }
+    th:nth-child(5), td:nth-child(5) { min-width: 80px; }
+    th:nth-child(1), td:nth-child(1),
+    th:nth-child(2), td:nth-child(2),
+    th:nth-child(4), td:nth-child(4),
+    th:nth-child(6), td:nth-child(6),
+    th:nth-child(7), td:nth-child(7) { min-width: 40px; }
+}
 
-    th:nth-child(5), td:nth-child(5) /* T. Final */ {
-        min-width: 80px;
-    }
+.button {
+    padding: 6px 12px;
+    font-size: 1em;
+    background: #ffcc00;
+    color: #1a1a1a;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
 
-    th:nth-child(1), td:nth-child(1), /* Pos. */
-    th:nth-child(2), td:nth-child(2), /* Nro. */
-    th:nth-child(4), td:nth-child(4), /* Recargo */
-    th:nth-child(6), td:nth-child(6), /* Vueltas */
-    th:nth-child(7), td:nth-child(7) /* Penalización */ {
-        min-width: 40px;
-    }
+.button:hover {
+    background: #e6b800;
+    transform: scale(1.05);
+}
+
+/* Créditos */
+#creditos a {
+    color: #777;
+    font-size: 0.8em;
+    transition: color 0.3s ease;
+}
+
+#creditos a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
 }

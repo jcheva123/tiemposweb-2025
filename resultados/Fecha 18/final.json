@@ -1,113 +1,138 @@
 {
-  "time": "00:18",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
-      "number": 2,
-      "name": "ALTAMIRANO Kevin",
+      "number": 10,
+      "name": "BURGOS Sebastian",
       "rec": 0.0,
-      "t_final": "2:10.584",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:10.216",
+      "t_final": "2:10.216",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 2,
-      "number": 5,
-      "name": "FRANCHI Luciano",
-      "rec": 0.0,
-      "t_final": "2:12.897",
-      "laps": "8",
-      "penalty": null
-    },
-    {
-      "position": 3,
       "number": 1,
       "name": "VALLEJOS Luciano",
       "rec": 0.0,
-      "t_final": "2:13.385",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:10.778",
+      "t_final": "2:10.778",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "rec_str": "2:11.979",
+      "t_final": "2:11.979",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 4,
-      "number": 133,
-      "name": "SALDAMANDO Fernando",
-      "rec": 1.0,
-      "t_final": "2:13.825",
-      "laps": "8",
-      "penalty": "Cono(s)"
+      "number": 11,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "rec_str": "2:13.248",
+      "t_final": "2:13.248",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 5,
-      "number": 111,
-      "name": "HIDALGO Federico",
+      "number": 39,
+      "name": "REY Javier",
       "rec": 0.0,
-      "t_final": "2:14.225",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:14.316",
+      "t_final": "2:14.316",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 6,
-      "number": 14,
-      "name": "OYOLA Matias Sebastian",
+      "number": 2,
+      "name": "ALTAMIRANO Kevin",
       "rec": 0.0,
-      "t_final": "2:14.963",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:15.162",
+      "t_final": "2:15.162",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 7,
-      "number": 128,
-      "name": "PIÑEYRO Julio Cesar",
+      "number": 5,
+      "name": "FRANCHI Luciano",
       "rec": 0.0,
-      "t_final": "2:15.483",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:15.623",
+      "t_final": "2:15.623",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 8,
-      "number": 25,
-      "name": "AUSILI Agustin",
+      "number": 47,
+      "name": "BONIVARDO Fernando",
       "rec": 0.0,
-      "t_final": "2:16.653",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:15.854",
+      "t_final": "2:15.854",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 9,
       "number": 40,
       "name": "MORENO Maximiliano",
       "rec": 0.0,
-      "t_final": "2:17.396",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:16.407",
+      "t_final": "2:16.407",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 10,
-      "number": 44,
-      "name": "DAILOFF Nehuen",
+      "number": 9,
+      "name": "ALTAMIRANO Roy",
       "rec": 0.0,
-      "t_final": "2:17.551",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:14.523",
+      "t_final": "2:16.523",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 11,
-      "number": 33,
-      "name": "PALMA Nicolas",
+      "number": 35,
+      "name": "ROUAIX Javier",
       "rec": 0.0,
-      "t_final": "2:18.568",
-      "laps": "8",
-      "penalty": null
+      "rec_str": "2:17.037",
+      "t_final": "2:17.037",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 12,
-      "number": 10,
-      "name": "BURGOS Sebastian",
+      "number": 4,
+      "name": "ROTH Claudio",
       "rec": 0.0,
-      "t_final": "1:59.994",
-      "laps": "7",
-      "penalty": null
+      "rec_str": "2:18.574",
+      "t_final": "2:18.574",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
     }
   ]
 }

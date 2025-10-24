@@ -1,59 +1,83 @@
 {
-  "time": "21:29",
+  "date": null,
+  "time": null,
   "results": [
     {
       "position": 1,
-      "number": 35,
-      "name": "ROUAIX Javier",
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
       "rec": 0.0,
-      "t_final": "1:21.652",
-      "laps": "5",
-      "penalty": null
+      "rec_str": "1:20.891",
+      "t_final": "1:20.891",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 2,
-      "number": 8,
-      "name": "ROTH Ezequiel",
+      "number": 5,
+      "name": "FRANCHI Luciano",
       "rec": 0.0,
-      "t_final": "1:22.333",
-      "laps": "5",
-      "penalty": null
+      "rec_str": "1:22.532",
+      "t_final": "1:22.532",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 3,
-      "number": 19,
-      "name": "DUPONT Braian",
-      "rec": 1.0,
-      "t_final": "1:22.856",
-      "laps": "5",
-      "penalty": "Cono(s)"
+      "number": 47,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:23.506",
+      "t_final": "1:23.506",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 4,
-      "number": 129,
-      "name": "ALZA Pablo",
+      "number": 43,
+      "name": "GARCIA Joaquin",
       "rec": 0.0,
-      "t_final": "1:25.238",
-      "laps": "5",
-      "penalty": null
+      "rec_str": "1:24.566",
+      "t_final": "1:25.566",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 5,
-      "number": 70,
-      "name": "PEREYRA Javier",
+      "number": 117,
+      "name": "OVEJERO Facundo",
       "rec": 0.0,
-      "t_final": "1:25.558",
-      "laps": "5",
-      "penalty": null
+      "rec_str": "1:26.860",
+      "t_final": "1:26.860",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
     },
     {
       "position": 6,
-      "number": 37,
-      "name": "FRITZ Javier Hernan",
+      "number": 112,
+      "name": "MOYANO Antonio",
       "rec": 0.0,
-      "t_final": "1:26.099",
-      "laps": "5",
-      "penalty": null
+      "rec_str": "1:27.214",
+      "t_final": "1:27.214",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 120,
+      "name": "BENITEZ Matias",
+      "rec": 0.0,
+      "rec_str": "1:29.808",
+      "t_final": "1:29.808",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
     }
   ]
 }

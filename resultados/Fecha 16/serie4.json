@@ -6,44 +6,44 @@
       "position": 1,
       "number": 14,
       "name": "OYOLA Matias Sebastian",
-      "rec": 82.584,
+      "rec": 0.0,
       "rec_str": "1:22.584",
       "t_final": "1:22.584",
       "laps": 5,
-      "penalty": 0,
+      "penalty": null,
       "penalty_note": null
     },
     {
       "position": 2,
       "number": 21,
       "name": "SCHMIT Nahuel",
-      "rec": 83.228,
+      "rec": 0.0,
       "rec_str": "1:23.228",
       "t_final": "1:23.228",
       "laps": 5,
-      "penalty": 0,
+      "penalty": null,
       "penalty_note": null
     },
     {
       "position": 3,
       "number": 15,
       "name": "PUCCINELLI Carlos",
-      "rec": 83.655,
+      "rec": 0.0,
       "rec_str": "1:23.655",
       "t_final": "1:23.655",
       "laps": 5,
-      "penalty": 0,
+      "penalty": null,
       "penalty_note": null
     },
     {
       "position": 4,
       "number": 117,
       "name": "OVEJERO Facundo",
-      "rec": 86.324,
+      "rec": 0.0,
       "rec_str": "1:26.324",
       "t_final": "1:26.324",
       "laps": 5,
-      "penalty": 0,
+      "penalty": null,
       "penalty_note": null
     }
   ]
