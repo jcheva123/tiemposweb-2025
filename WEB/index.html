@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Resultados - Estival 2025-2026</title>
+  <meta name="theme-color" content="#0b0f1a" />
+  <link rel="stylesheet" href="styles.css" />
+  <!-- (Opcional PWA) -->
+</head>
+<body>
+
+<nav id="topbar-volver" style="position:sticky; top:0; z-index:999; background:#0b0f1a; padding:8px 12px; border-bottom:1px solid rgba(255,255,255,.15);">
+  <button class="button" onclick="window.location.href='../index.html'" style="padding:10px 14px; border-radius:12px; border:1px solid rgba(255,255,255,.2); background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02)); color:#fff; cursor:pointer;">
+    ⬅️ Volver
+  </button>
+</nav>
+
+<!-- Barra de progreso y banner offline -->
+<div id="progress"></div>
+<div id="offline-banner" hidden>Sin conexión. Mostrando datos recientes.</div>
+
+<header>
+  <h1>🏁 Resultados - Estival 2025-2026</h1>
+</header>
+
+<main>
+  <section id="date-selector">
+    <label for="fecha-select">Seleccionar Fecha:</label>
+    <!-- Si tu script ya maneja el change por JS, podés quitar el onchange -->
+    <select id="fecha-select" onchange="loadRaces()">
+      <option value="">-- Elegir Fecha --</option>
+      <option value="Fecha 1">Fecha 1</option>
+      <option value="Fecha 2">Fecha 2</option>
+      <option value="Fecha 3">Fecha 3</option>
+      <option value="Fecha 4">Fecha 4</option>
+      <option value="Fecha 5">Fecha 5</option>
+      <option value="Fecha 6">Fecha 6</option>
+      <option value="Fecha 7">Fecha 7</option>
+      <option value="Fecha 8">Fecha 8</option>
+      <option value="Fecha 9">Fecha 9</option>
+      <option value="Fecha 10">Fecha 10</option>
+      <option value="Fecha 11">Fecha 11</option>
+      <option value="Fecha 12">Fecha 12</option>
+      <option value="Fecha 13">Fecha 13</option>
+      <option value="Fecha 14">Fecha 14</option>
+      <option value="Fecha 15">Fecha 15</option>
+      <option value="Fecha 16">Fecha 16</option>
+      <option value="Fecha 17">Fecha 17</option>
+      <option value="Fecha 18">Fecha 18</option>
+    </select>
+  </section>
+
+  <section id="race-list">
+    <div style="display:flex; align-items:center; justify-content:space-between; gap:8px;">
+      <h2 style="margin:0;">Carreras Disponibles</h2>
+      <div style="display:flex; gap:8px;">
+        <button id="update-btn" class="button" type="button" title="Refrescar datos">↻ Actualizar Datos</button>
+        <!-- Botón de compartir eliminado de la UI; se deja oculto para compatibilidad con enhancements.js -->
+        <button id="share-btn" class="button" type="button" hidden aria-hidden="true" style="display:none">Compartir</button>
+      </div>
+    </div>
+    <ul></ul>
+  </section>
+
+  <section id="results" aria-live="polite">
+    <div class="results-toolbar">
+      <h2>Resultados</h2>
+      <input id="results-search" type="search" placeholder="Buscar por N° o nombre…" inputmode="search" autocomplete="off" />
+    </div>
+
+    <div class="meta-row">
+      <span id="selected-pill" hidden></span>
+      <span id="last-updated" hidden></span>
+    </div>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Pos.</th>
+            <th>N°</th>
+            <th>Nombre</th>
+            <th>Recargo</th>
+            <th>T.Final</th>
+            <th>Vtas.</th>
+            <th>Causa</th>
+          </tr>
+        </thead>
+        <tbody><!-- filas dinámicas --></tbody>
+      </table>
+      <div id="skeleton" class="skeleton" hidden>
+        <div class="row"></div><div class="row"></div><div class="row"></div><div class="row"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="script.js"></script>
+<script src="enhancements.js"></script>
+
+<div id="toast" hidden></div>
+
+<div id="creditos" style="text-align:center; font-size:12px; margin-top:20px;">
+  <a href="http://www.primate.com.ar" target="_blank" style="color:#999; text-decoration:none;">
+    by PRIMATE ®
+  </a>
+</div>
+</body>
+</html>
