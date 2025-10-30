@@ -1,92 +1,49 @@
 @echo off
-setlocal EnableExtensions EnableDelayedExpansion
+setlocal enabledelayedexpansion
 
-REM ========= CONFIG =========
+rem === Config ===
 set "REPO=C:\SHOWMIDGET\TIEMPOSWEB"
-set "PYTHON_EXE=python"          REM Cambiar si no tenes python en PATH. Ej: C:\Users\TuUsuario\AppData\Local\Programs\Python\Python311\python.exe
-set "BRANCH=main"
-set "FORCE_FLAG=--force-with-lease"  REM Para aplastar sin mirar: --force
-set "COMMIT_MSG=Auto: procesar PDFs y subir resultados"
-REM ==========================
+set "PY=python"  rem o py si así lo usás
 
-REM (OPCIONAL) Pedir admin si necesitás permisos elevados en esa carpeta.
-REM Descomenta el bloque siguiente si hace falta:
-REM net session >nul 2>&1
-REM if %errorlevel% neq 0 (
-REM   echo Solicitando permisos de administrador...
-REM   powershell -Command "Start-Process '%~f0' -Verb RunAs"
-REM   exit /b
-REM )
+cd /d "%REPO%" || (echo [ERROR] No se pudo entrar a %REPO% & exit /b 1)
 
 echo.
-echo === Repo: %REPO% ^| Rama: %BRANCH% ===
+echo === Repo: %REPO% ^| Rama: main ===
+git status -s
+
+rem 1) Generar/actualizar JSONs y manifiestos
 echo.
-
-REM 1) Ir al repo
-cd /d "%REPO%" 2>nul || (
-  echo [ERROR] No existe la ruta del repo: "%REPO%"
-  pause
-  exit /b 1
-)
-
-REM 2) Verificar git
-git --version >nul 2>&1 || (
-  echo [ERROR] No se encontro 'git' en el PATH.
-  pause
-  exit /b 1
-)
-
-REM 3) Asegurar rama seleccionada (crea/reset al commit actual)
-git checkout -B "%BRANCH%" || (
-  echo [ERROR] No se pudo cambiar/crear la rama "%BRANCH%".
-  pause
-  exit /b 1
-)
-
-REM 4) Ejecutar el procesamiento de PDFs (esto tambien intenta ejecutar subir_jsons si esta disponible)
-echo.
-echo [INFO] Ejecutando: %PYTHON_EXE% process_pdfs.py
-"%PYTHON_EXE%" process_pdfs.py
+echo [INFO] Ejecutando: %PY% process_pdfs.py
+%PY% process_pdfs.py
 if errorlevel 1 (
-  echo [ATENCION] process_pdfs.py devolvio errorlevel distinto de 0.
-  echo           Revisar la salida arriba. Se detiene el script.
-  pause
+  echo [ATENCION] process_pdfs.py devolvio errorlevel distinto de 0. Revisar la salida arriba. Se detiene el script.
   exit /b 1
 )
 
-REM 5) Preparar commit si hay cambios
+rem 2) Preparar commit
+echo.
+echo [INFO] Preparando commit...
 git add -A
+
+rem Si no hay cambios, no falla
 git diff --cached --quiet
 if errorlevel 1 (
-  echo [INFO] Creando commit...
-  git commit -m "%COMMIT_MSG%" || (
-    echo [ERROR] No se pudo crear el commit.
-    pause
-    exit /b 1
-  )
+  for /f "tokens=1-3 delims=/ " %%a in ('date /t') do set FECHA=%%c-%%b-%%a
+  for /f "tokens=1-2 delims=: " %%a in ('time /t') do set HORA=%%a%%b
+  git commit -m "[auto] actualizar jsons y manifiestos %FECHA% %HORA%"
 ) else (
-  echo [INFO] No hay cambios para commitear; igual se forzara el push (por si no existe rama remota).
+  echo [INFO] No hay cambios para commitear.
 )
 
-REM 6) Verificar remoto
-git remote get-url origin >nul 2>&1 || (
-  echo [ERROR] No existe remoto 'origin'. Agregalo con:
-  echo        git remote add origin https://github.com/usuario/repositorio.git
-  pause
-  exit /b 1
-)
-
-REM 7) Push forzado
+rem 3) Empujar SIEMPRE local -> remoto (pisa remoto con --force-with-lease)
 echo.
-echo [INFO] Enviando a origin/%BRANCH% con %FORCE_FLAG% ...
-git push -u %FORCE_FLAG% origin "%BRANCH%" || (
-  echo [ERROR] Fallo el push forzado.
-  pause
+echo [INFO] Sincronizando con GitHub (local -> remoto)...
+git push --force-with-lease origin main
+if errorlevel 1 (
+  echo [ERROR] No se pudo pushear. Verificar red/credenciales o rama protegida.
   exit /b 1
 )
 
 echo.
-echo [OK] Todo listo: PDFs procesados y push forzado a origin/%BRANCH%.
-echo.
-pause
+echo [OK] Listo.
 exit /b 0
