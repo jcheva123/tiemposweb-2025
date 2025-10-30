@@ -60,17 +60,15 @@ def update_manifests(fecha_dir: str, race: str):
     Asegura que:
       - resultados/fechas.json contenga 'Fecha N'
       - resultados/Fecha N/index.json contenga 'race'
+    (Durante el procesado. Luego se hace un rebuild global que “limpia”.)
     """
-    # fechas.json
     fechas_path = os.path.join(OUTPUT_DIR, "fechas.json")
     fechas = load_json(fechas_path, {"fechas": []})
     if fecha_dir not in fechas["fechas"]:
         fechas["fechas"].append(fecha_dir)
-        # ordenar por número dentro de 'Fecha N'
         fechas["fechas"].sort(key=lambda s: int(re.search(r"\d+", s).group()) if re.search(r"\d+", s) else 0)
         save_json(fechas_path, fechas)
 
-    # index.json de la fecha
     if race and race != "unknown":
         index_path = os.path.join(OUTPUT_DIR, fecha_dir, "index.json")
         index = load_json(index_path, {"races": []})
@@ -100,11 +98,9 @@ def join_time_tokens(tokens_line):
         if i+2 < len(tokens_line):
             nxt = tokens_line[i+1]["text"]
             nxt2 = tokens_line[i+2]["text"]
-            # colon/point/comma partido
             if re.fullmatch(r"[:\.,]", nxt) and re.fullmatch(r"\d{2,3}", nxt2) and re.fullmatch(r"\d{1,2}[:.]\d{2}", cur.replace(" ", "")):
                 merged = (cur + nxt + nxt2).replace(" ", "")
                 tokens_line[i]["text"] = merged
-                # "absorbo" los siguientes
                 i += 3
                 out.append(tokens_line[i-3])
                 continue
@@ -123,9 +119,7 @@ def time_to_seconds(s):
     s = clean_time_str(s)
     if not s: return None
     s = s.replace(",", ".")
-    # Permitir dot en lugar de colon si no hay colon
     if ":" not in s and "." in s:
-        # interpretamos primer punto como colon
         s = s.replace(".", ":", 1)
     m = re.match(r"^(\d{1,2}):(\d{2})(?:[.,](\d{2,3}))?$", s)
     if not m: return None
@@ -159,7 +153,6 @@ def tokens_pymupdf(pdf_path):
         with fitz.open(pdf_path) as doc:
             for pidx, page in enumerate(doc):
                 for b in page.get_text("words") or []:
-                    # b = (x0,y0,x1,y1,"text", block_no, line_no, word_no)
                     toks.append({
                         "page": pidx,
                         "x": float(b[0]), "y": float(b[1]),
@@ -205,7 +198,6 @@ def get_tokens(pdf_path):
 
 # === Agrupación por filas y columnas ===
 def group_lines(tokens, y_tol=5.0):
-    """Agrupa tokens por línea usando y (promedio)."""
     lines = []
     tokens_sorted = sorted(tokens, key=lambda t: (t["page"], t["y"], t["x"]))
     current = []; cur_page = None; cur_y = None
@@ -217,7 +209,6 @@ def group_lines(tokens, y_tol=5.0):
             lines.append((cur_page, cur_y, sorted(current, key=lambda z: z["x"])))
             cur_page, cur_y, current = t["page"], t["y"], [t]
         else:
-            # actualizo y medio
             cur_y = (cur_y + t["y"]) / 2
             current.append(t)
     if current:
@@ -225,14 +216,12 @@ def group_lines(tokens, y_tol=5.0):
     return lines
 
 def detect_columns(all_lines):
-    """Detecta cortes de columnas por gaps grandes en X (heurística)."""
     xs = []
     for _, _, toks in all_lines:
         for i in range(1, len(toks)):
             gap = toks[i]["x"] - (toks[i-1]["x"] + toks[i-1]["w"])
-            if gap > 12: xs.append(toks[i]["x"])  # umbral de gap
+            if gap > 12: xs.append(toks[i]["x"])
     if not xs: return []
-    # tomamos posiciones representativas de inicios de columna
     xs_sorted = sorted(xs)
     cols = [xs_sorted[0]]
     for x in xs_sorted[1:]:
@@ -241,28 +230,23 @@ def detect_columns(all_lines):
     return cols
 
 def tokens_to_fields(toks_line):
-    """Reconstruye: pos, nro, nombre, rec (segundos de recargo), rec_str (lap/tiempo), t_final, penalty, laps, note."""
     if not toks_line: 
         return None
 
-    # unir tokens de tiempos partidos: 1:21 . 416 -> 1:21.416
     toks_line = join_time_tokens(toks_line)
     texts = [t["text"] for t in toks_line if t["text"]]
 
-    # indices de pos y nro
     nums = [i for i, s in enumerate(texts) if re.fullmatch(r"\d+", s)]
     if len(nums) < 2:
         return None
     i_pos, i_num = nums[0], nums[1]
 
-    # indices de tiempos (rec_str y t_final). Si hay uno solo, lo uso para ambos.
     time_idx = [i for i, s in enumerate(texts) if is_time_token(s)]
     if not time_idx:
         return None
     i_rec_time = time_idx[0]
     i_tf = time_idx[1] if len(time_idx) > 1 else time_idx[0]
 
-    # índice de vueltas (último entero a la derecha de t_final)
     i_laps = None
     for i in range(len(texts) - 1, -1, -1):
         if re.fullmatch(r"\d+", texts[i]) and i > i_tf:
@@ -271,17 +255,11 @@ def tokens_to_fields(toks_line):
     if i_laps is None:
         return None
 
-    # --- EXTRAER RECARGO EN SEGUNDOS Y PENALTY COUNT ENTRE T_FINAL Y LAPS ---
     rec_secs = None
     penalty_count = None
     note = None
 
     mid_tokens = texts[i_tf + 1:i_laps]
-    # Heurística:
-    #   '.'            -> rec = 0.0
-    #   '1' '1,000'    -> rec = ese valor en segundos (si <=10 o con decimales)
-    #   'N/L' '-'      -> rec = 0.0
-    #   si aparece otro entero "grande", lo interpretamos como penalty count
     for tok in mid_tokens:
         if tok == ".":
             rec_secs = 0.0
@@ -290,26 +268,20 @@ def tokens_to_fields(toks_line):
         elif re.fullmatch(r"\d+[.,]?\d*", tok):
             val = float(tok.replace(",", "."))
             if "." in tok or val <= 10:
-                # parece segundos de recargo
                 if rec_secs is None:
                     rec_secs = val
             else:
-                # probablemente un conteo (p.ej., cantidad de conos)
                 penalty_count = int(val)
 
-    # si no vimos nada, por defecto 0.0 (equivalente a '.')
     if rec_secs is None:
         rec_secs = 0.0
 
-    # nota: lo que quede después de 'laps'
     if (i_laps + 1) < len(texts):
         note = norm(" ".join(texts[i_laps + 1:])) or None
 
-    # nombre
     name = norm(" ".join(texts[i_num + 1:i_rec_time]))
 
-    # tiempos
-    rec_time_str = clean_time_str(texts[i_rec_time])     # NO es recargo: es el tiempo/lap
+    rec_time_str = clean_time_str(texts[i_rec_time])
     t_final = clean_time_str(texts[i_tf])
 
     try:
@@ -317,39 +289,31 @@ def tokens_to_fields(toks_line):
             "position": int(texts[i_pos]),
             "number": int(texts[i_num]),
             "name": name,
-            # === lo importante: rec ahora es recargo en segundos ===
-            "rec": round(rec_secs, 3),
-            # guardamos el tiempo como string (o lo que venga) por si lo necesitás mostrar
+            "rec": round(rec_secs, 3),                    # recargo en segundos
             "rec_str": None if rec_time_str is None else rec_time_str.replace(",", "."),
             "t_final": None if t_final is None else t_final.replace(",", "."),
             "laps": int(texts[i_laps]),
-            # si no hubo conteo explícito, lo dejamos en None (como tus JSON viejos)
             "penalty": penalty_count,
             "penalty_note": note
         }
     except Exception:
         return None
 
-
 # === Parse completo por archivo ===
 def parse_tokens_to_results(tokens):
     if not tokens: return []
 
-    # 1) agrupar por línea
     lines = group_lines(tokens, y_tol=6.0)
 
-    # 2) detectar header approx (línea que contenga "pos" y "nombre")
     start_idx = 0
     for i, (_, _, toks) in enumerate(lines):
         low = " ".join(t["text"].lower() for t in toks)
-        if "pos" in low and "nom" in low:  # nombre / nom.
+        if "pos" in low and "nom" in low:
             start_idx = i + 1
             break
 
     results = []
-    # 3) intentar parsear cada línea de tabla
     for _, _, toks in lines[start_idx:]:
-        # descartar líneas muy cortas
         if len(toks) < 4: 
             continue
         row = tokens_to_fields(toks)
@@ -360,7 +324,7 @@ def parse_tokens_to_results(tokens):
 
 def extract_meta(tokens):
     fecha = None; hora = None
-    for t in tokens[:200]:  # primeras líneas
+    for t in tokens[:200]:
         s = t["text"]
         m_f = re.search(r"(?:Fecha|FECHA)\s*[: ]\s*(\d{1,2}/\d{1,2}/\d{4})", s)
         if m_f: fecha = m_f.group(1)
@@ -386,7 +350,6 @@ def process_pdf(pdf_path):
     fecha, hora = extract_meta(tokens)
     results = parse_tokens_to_results(tokens)
 
-    # debug siempre
     dbg = Path(pdf_path).name + ".debug.json"
     with open(os.path.join(DEBUG_DIR, dbg), "w", encoding="utf-8") as f:
         json.dump({
@@ -400,6 +363,48 @@ def process_pdf(pdf_path):
         return None
 
     return {"date": fecha, "time": hora, "results": results}
+
+# === Reconstrucción/limpieza total de manifiestos según el disco ===
+def rebuild_manifests_from_disk():
+    print("[SYNC] Reconstruyendo manifiestos desde resultados/ ...")
+    fechas_validas = []
+
+    # Buscar subcarpetas tipo 'Fecha NN'
+    for nombre in os.listdir(OUTPUT_DIR):
+        fecha_dir = os.path.join(OUTPUT_DIR, nombre)
+        if not (os.path.isdir(fecha_dir) and re.match(r"^Fecha\s*\d+$", nombre, re.IGNORECASE)):
+            continue
+
+        # carreras presentes (por archivo existente)
+        races = []
+        for fn in os.listdir(fecha_dir):
+            if not fn.lower().endswith(".json"):
+                continue
+            if fn.lower() == "index.json":
+                continue
+            base = os.path.splitext(fn)[0].lower()
+            # aceptar nombres válidos
+            if re.match(r"^(serie\d+|repechaje\d+|semifinal\d+|prefinal|final)$", base):
+                races.append(base)
+
+        races = sorted(set(races), key=race_sort_key)
+
+        index_path = os.path.join(fecha_dir, "index.json")
+        if races:
+            save_json(index_path, {"races": races})
+            fechas_validas.append(nombre)
+        else:
+            # si no tiene carreras, eliminar index vacío (si existiera)
+            if os.path.exists(index_path):
+                try:
+                    os.remove(index_path)
+                except Exception:
+                    pass
+
+    # escribir fechas.json solo con fechas que tengan al menos 1 carrera
+    fechas_validas.sort(key=lambda s: int(re.search(r"\d+", s).group()))
+    save_json(os.path.join(OUTPUT_DIR, "fechas.json"), {"fechas": fechas_validas})
+    print(f"[SYNC] fechas.json actualizado. Fechas: {fechas_validas}")
 
 def process_pdfs():
     if not os.path.exists(PDF_DIR):
@@ -422,7 +427,7 @@ def process_pdfs():
             pdf_path = os.path.join(fecha_path, pdf_file)
             data = process_pdf(pdf_path)
             if not data:
-                # además guardo un TXT para inspección rápida (si hay tokens)
+                # preview de texto rápido por si querés inspeccionar
                 txt_out = os.path.join(DEBUG_DIR, pdf_file + ".txt")
                 try:
                     tokens, _ = get_tokens(pdf_path)
@@ -441,11 +446,14 @@ def process_pdfs():
                 json.dump(data, f, ensure_ascii=False, indent=2)
             print(f"JSON guardado: {out_path}")
 
-            # >>>> ACTUALIZA MANIFIESTOS <<<<
             update_manifests(fecha_dir, race_type)
 
 if __name__ == "__main__":
+    # 1) Procesar PDFs y actualizar manifest de forma incremental
     process_pdfs()
+    # 2) Reconstruir/limpiar manifiestos para reflejar deletions/moves
+    rebuild_manifests_from_disk()
+    # 3) Intentar subir si tenés el helper local
     try:
         import subir_jsons
         subir_jsons.subir_jsons()
