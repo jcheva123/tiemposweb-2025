@@ -1,0 +1,116 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 112,
+      "name": "MOYANO Antonio",
+      "rec": 0.0,
+      "rec_str": "1:23.418",
+      "t_final": "1:23.418",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 34,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:24.530",
+      "t_final": "1:24.530",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 111,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:24.811",
+      "t_final": "1:24.811",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 52,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:26.567",
+      "t_final": "1:26.567",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 58,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "rec_str": "1:26.787",
+      "t_final": "1:26.787",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 42,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:27.814",
+      "t_final": "1:27.814",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 23,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:27.296",
+      "t_final": "1:28.296",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 8,
+      "number": 19,
+      "name": "DUPONT Braian",
+      "rec": 0.0,
+      "rec_str": "1:28.499",
+      "t_final": "1:28.499",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 84,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "rec_str": "1:30.208",
+      "t_final": "1:30.208",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 55,
+      "name": "ANTINORI Axel",
+      "rec": 0.0,
+      "rec_str": "1:29.335",
+      "t_final": "1:30.335",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
