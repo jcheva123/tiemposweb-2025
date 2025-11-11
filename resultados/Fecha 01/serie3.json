@@ -15,17 +15,6 @@
     },
     {
       "position": 2,
-      "number": 27,
-      "name": "AUSILI Agustin",
-      "rec": 0.0,
-      "rec_str": "1:18.831",
-      "t_final": "1:18.831",
-      "laps": 5,
-      "penalty": null,
-      "penalty_note": null
-    },
-    {
-      "position": 3,
       "number": 23,
       "name": "PIÑEYRO Julio Cesar",
       "rec": 0.0,
@@ -36,7 +25,7 @@
       "penalty_note": null
     },
     {
-      "position": 4,
+      "position": 3,
       "number": 49,
       "name": "PERUGINI Flavio",
       "rec": 0.0,
@@ -45,6 +34,17 @@
       "laps": 5,
       "penalty": null,
       "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:18.831",
+      "t_final": "1:19.831",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 5,
@@ -63,7 +63,7 @@
       "name": "MARCOS Nehuen",
       "rec": 0.0,
       "rec_str": "1:21.299",
-      "t_final": "1:23.299",
+      "t_final": "1:22.299",
       "laps": 5,
       "penalty": null,
       "penalty_note": "Cono(s)"
