@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "rec_str": "2:02.234",
+      "t_final": "2:02.234",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "2:04.079",
+      "t_final": "2:04.079",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 31,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "rec_str": "2:05.124",
+      "t_final": "2:05.124",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 21,
+      "name": "SCHMIT Nahuel",
+      "rec": 8.0,
+      "rec_str": "2:04.080",
+      "t_final": "2:06.080",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": "Puesto + 2\" falsa largada"
+    },
+    {
+      "position": 5,
+      "number": 14,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "rec_str": "2:06.339",
+      "t_final": "2:06.339",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "rec_str": "2:05.443",
+      "t_final": "2:06.443",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "2:06.634",
+      "t_final": "2:06.634",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 6,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "rec_str": "2:07.513",
+      "t_final": "2:07.513",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "2:08.302",
+      "t_final": "2:08.302",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "rec_str": "2:09.393",
+      "t_final": "2:10.393",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 11,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "2:12.538",
+      "t_final": "2:12.538",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 9,
+      "name": "OYOLA Matias Sebasti",
+      "rec": 0.0,
+      "rec_str": "2:13.875",
+      "t_final": "2:14.875",
+      "laps": 8,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
