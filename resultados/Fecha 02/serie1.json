@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "rec_str": "1:16.073",
+      "t_final": "1:16.073",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:17.906",
+      "t_final": "1:17.906",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "rec_str": "1:18.250",
+      "t_final": "1:19.250",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 102,
+      "name": "TORRES Luciano",
+      "rec": 0.0,
+      "rec_str": "1:20.206",
+      "t_final": "1:20.206",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 75,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "rec_str": "1:21.534",
+      "t_final": "1:21.534",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 26,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:21.941",
+      "t_final": "1:21.941",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 142,
+      "name": "OLIVERA Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:22.593",
+      "t_final": "1:22.593",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 63,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "rec_str": "1:24.151",
+      "t_final": "1:25.151",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
