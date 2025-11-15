@@ -1,0 +1,72 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 22,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:16.715",
+      "t_final": "1:16.715",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:21.584",
+      "t_final": "1:21.584",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:21.940",
+      "t_final": "1:21.940",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 34,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "rec_str": "1:22.337",
+      "t_final": "1:22.337",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 60,
+      "name": "MOYANO Antonio",
+      "rec": 0.0,
+      "rec_str": "1:23.543",
+      "t_final": "1:23.543",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 74,
+      "name": "MANZOTTI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:26.223",
+      "t_final": "1:26.223",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
