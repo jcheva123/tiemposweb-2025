@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 5,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "rec_str": "1:15.982",
+      "t_final": "1:15.982",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 123,
+      "name": "COLANERI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:17.483",
+      "t_final": "1:17.483",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 48,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "rec_str": "1:19.781",
+      "t_final": "1:19.781",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:17.968",
+      "t_final": "1:19.968",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 81,
+      "name": "CALVO Jose Maria",
+      "rec": 0.0,
+      "rec_str": "1:24.500",
+      "t_final": "1:24.500",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 44,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "rec_str": "1:25.097",
+      "t_final": "1:26.097",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 40,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "rec_str": "1:05.934",
+      "t_final": "1:06.934",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 8,
+      "number": 134,
+      "name": "MONTANARI Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:05.588",
+      "t_final": "1:07.588",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": "Maniobra Peligrosa"
+    }
+  ]
+}
