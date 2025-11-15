@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "rec_str": "1:18.330",
+      "t_final": "1:18.330",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "rec_str": "1:18.682",
+      "t_final": "1:19.682",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 3,
+      "number": 51,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:21.161",
+      "t_final": "1:21.161",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 57,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:23.092",
+      "t_final": "1:23.092",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 112,
+      "name": "GOMEZ Agustin",
+      "rec": 0.0,
+      "rec_str": "1:25.110",
+      "t_final": "1:25.110",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 72,
+      "name": "JACOB Ruben",
+      "rec": 0.0,
+      "rec_str": "1:24.325",
+      "t_final": "1:28.325",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "0:51.228",
+      "t_final": "0:51.228",
+      "laps": 3,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
