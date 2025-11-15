@@ -26,17 +26,6 @@
     },
     {
       "position": 3,
-      "number": 20,
-      "name": "PEREZ Sebastian",
-      "rec": 0.0,
-      "rec_str": "1:36.623",
-      "t_final": "1:36.623",
-      "laps": 6,
-      "penalty": null,
-      "penalty_note": null
-    },
-    {
-      "position": 4,
       "number": 50,
       "name": "ANDRADE Joaquin",
       "rec": 0.0,
@@ -47,7 +36,7 @@
       "penalty_note": null
     },
     {
-      "position": 5,
+      "position": 4,
       "number": 22,
       "name": "BONIVARDO Fernando",
       "rec": 0.0,
@@ -56,6 +45,17 @@
       "laps": 6,
       "penalty": null,
       "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:36.623",
+      "t_final": "1:37.623",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
     },
     {
       "position": 6,
