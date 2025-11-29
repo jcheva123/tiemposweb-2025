@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 5,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "rec_str": "1:18.289",
+      "t_final": "1:18.289",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 51,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:19.804",
+      "t_final": "1:19.804",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 48,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "rec_str": "1:22.014",
+      "t_final": "1:22.014",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 86,
+      "name": "SALAZAR Alfredo",
+      "rec": 0.0,
+      "rec_str": "1:22.974",
+      "t_final": "1:22.974",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 142,
+      "name": "OLIVERA Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:22.987",
+      "t_final": "1:22.987",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 110,
+      "name": "FORD Lautaro",
+      "rec": 0.0,
+      "rec_str": "1:23.773",
+      "t_final": "1:23.773",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 22,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "0:01.901",
+      "t_final": "0:01.901",
+      "laps": 0,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:19.585",
+      "t_final": "1:19.585",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:20.033",
+      "t_final": "1:20.033",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 24,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:21.134",
+      "t_final": "1:21.134",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 69,
+      "name": "OVEJERO Facundo",
+      "rec": 0.0,
+      "rec_str": "1:22.112",
+      "t_final": "1:22.112",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 67,
+      "name": "HOCK Gaston",
+      "rec": 0.0,
+      "rec_str": "1:23.054",
+      "t_final": "1:23.054",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 54,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:24.315",
+      "t_final": "1:24.315",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 78,
+      "name": "GONZALEZ Juan I",
+      "rec": 0.0,
+      "rec_str": "1:25.400",
+      "t_final": "1:25.400",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "0:18.630",
+      "t_final": "0:18.630",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
