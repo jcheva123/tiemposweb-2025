@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 5,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "rec_str": "1:32.246",
+      "t_final": "1:32.246",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:33.004",
+      "t_final": "1:33.004",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "rec_str": "1:34.552",
+      "t_final": "1:34.552",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:36.193",
+      "t_final": "1:36.193",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 137,
+      "name": "DAILOFF Ramiro",
+      "rec": 0.0,
+      "rec_str": "1:36.589",
+      "t_final": "1:36.589",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 34,
+      "name": "DAILOFF Nehuen",
+      "rec": 0.0,
+      "rec_str": "1:37.361",
+      "t_final": "1:37.361",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 134,
+      "name": "MONTANARI Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:38.476",
+      "t_final": "1:38.476",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:37.943",
+      "t_final": "1:39.943",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 9,
+      "number": 13,
+      "name": "ROUAIX Javier",
+      "rec": 0.0,
+      "rec_str": "1:39.979",
+      "t_final": "1:39.979",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:40.266",
+      "t_final": "1:40.266",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:40.473",
+      "t_final": "1:40.473",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 54,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:41.283",
+      "t_final": "1:42.283",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
