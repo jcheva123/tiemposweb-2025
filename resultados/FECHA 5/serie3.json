@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:18.060",
+      "t_final": "1:18.060",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "1:18.459",
+      "t_final": "1:18.459",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:20.101",
+      "t_final": "1:20.101",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 95,
+      "name": "PALLOTTI Ivan",
+      "rec": 0.0,
+      "rec_str": "1:20.532",
+      "t_final": "1:21.532",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 96,
+      "name": "BECCHIO Martin",
+      "rec": 0.0,
+      "rec_str": "1:23.040",
+      "t_final": "1:23.040",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 98,
+      "name": "FRITZ Jorge",
+      "rec": 0.0,
+      "rec_str": "1:23.419",
+      "t_final": "1:23.419",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 110,
+      "name": "FORD Lautaro",
+      "rec": 0.0,
+      "rec_str": "1:33.692",
+      "t_final": "1:35.692",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Falsa Largada"
+    },
+    {
+      "position": 8,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:07.004",
+      "t_final": "1:07.004",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
