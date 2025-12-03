@@ -70,6 +70,17 @@
     },
     {
       "position": 7,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 6.0,
+      "rec_str": "1:37.943",
+      "t_final": "1:37.943",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": "Cono(s) defensivos"
+    },
+    {
+      "position": 8,
       "number": 134,
       "name": "MONTANARI Nicolas",
       "rec": 0.0,
@@ -78,17 +89,6 @@
       "laps": 6,
       "penalty": null,
       "penalty_note": null
-    },
-    {
-      "position": 8,
-      "number": 45,
-      "name": "PETRACCI Gaston",
-      "rec": 0.0,
-      "rec_str": "1:37.943",
-      "t_final": "1:39.943",
-      "laps": 6,
-      "penalty": null,
-      "penalty_note": "Cono(s)"
     },
     {
       "position": 9,
