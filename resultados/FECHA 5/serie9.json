@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 14,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:17.777",
+      "t_final": "1:17.777",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 22,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:18.095",
+      "t_final": "1:18.095",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 13,
+      "name": "ROUAIX Javier",
+      "rec": 0.0,
+      "rec_str": "1:19.615",
+      "t_final": "1:19.615",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 16,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "rec_str": "1:24.042",
+      "t_final": "1:24.042",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:22.128",
+      "t_final": "1:24.128",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:25.510",
+      "t_final": "1:27.510",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 115,
+      "name": "LOPEZ Agustin",
+      "rec": 0.0,
+      "rec_str": "0:45.405",
+      "t_final": "0:45.405",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "0:19.481",
+      "t_final": "0:19.481",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

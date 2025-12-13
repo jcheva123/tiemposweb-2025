@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:16.848",
+      "t_final": "1:16.848",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 31,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "rec_str": "1:17.599",
+      "t_final": "1:17.599",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 111,
+      "name": "BRAY Juan P",
+      "rec": 0.0,
+      "rec_str": "1:20.536",
+      "t_final": "1:20.536",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:21.041",
+      "t_final": "1:21.041",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 43,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "rec_str": "1:21.858",
+      "t_final": "1:21.858",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 94,
+      "name": "CHIESA Alejandro",
+      "rec": 0.0,
+      "rec_str": "1:22.802",
+      "t_final": "1:22.802",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:23.184",
+      "t_final": "1:28.184",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "rec_str": "1:36.605",
+      "t_final": "1:36.605",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 15,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:37.850",
+      "t_final": "1:37.850",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:38.426",
+      "t_final": "1:38.426",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:39.098",
+      "t_final": "1:39.098",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:39.841",
+      "t_final": "1:39.841",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:40.504",
+      "t_final": "1:40.504",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 33,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:42.050",
+      "t_final": "1:42.050",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 55,
+      "name": "ANTINORI Axel",
+      "rec": 0.0,
+      "rec_str": "1:41.262",
+      "t_final": "1:42.262",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 9,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "1:43.316",
+      "t_final": "1:43.316",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 123,
+      "name": "COLANERI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:48.729",
+      "t_final": "1:48.729",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

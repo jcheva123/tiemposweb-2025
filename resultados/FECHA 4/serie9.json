@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 102,
+      "name": "TORRES Luciano",
+      "rec": 0.0,
+      "rec_str": "1:19.322",
+      "t_final": "1:19.322",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:20.276",
+      "t_final": "1:20.276",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 105,
+      "name": "ZABALEGUI Martin",
+      "rec": 0.0,
+      "rec_str": "1:20.653",
+      "t_final": "1:20.653",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 23,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "rec_str": "1:22.464",
+      "t_final": "1:22.464",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:24.277",
+      "t_final": "1:24.277",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 112,
+      "name": "GOMEZ Agustin",
+      "rec": 0.0,
+      "rec_str": "1:24.652",
+      "t_final": "1:24.652",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:29.513",
+      "t_final": "1:29.513",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 156,
+      "name": "TODINO Sebastian",
+      "rec": 0.0,
+      "rec_str": "0:18.801",
+      "t_final": "0:18.801",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

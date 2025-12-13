@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 22,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:34.481",
+      "t_final": "1:34.481",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 5,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "rec_str": "1:35.850",
+      "t_final": "1:35.850",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:37.721",
+      "t_final": "1:37.721",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 38,
+      "name": "MADRIL Braian",
+      "rec": 0.0,
+      "rec_str": "1:36.930",
+      "t_final": "1:37.930",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:38.320",
+      "t_final": "1:38.320",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 116,
+      "name": "ZUBELDIA Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:38.761",
+      "t_final": "1:39.761",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 60,
+      "name": "MOYANO Antonio",
+      "rec": 0.0,
+      "rec_str": "1:39.863",
+      "t_final": "1:39.863",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:40.634",
+      "t_final": "1:40.634",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 104,
+      "name": "HARDOY Maximiliano",
+      "rec": 0.0,
+      "rec_str": "1:41.049",
+      "t_final": "1:41.049",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 51,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:42.390",
+      "t_final": "1:42.390",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 75,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "rec_str": "1:43.057",
+      "t_final": "1:43.057",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 102,
+      "name": "TORRES Luciano",
+      "rec": 0.0,
+      "rec_str": "1:41.833",
+      "t_final": "1:43.833",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}

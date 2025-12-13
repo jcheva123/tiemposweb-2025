@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 5,
+      "name": "ALTAMIRANO Roy",
+      "rec": 0.0,
+      "rec_str": "1:33.462",
+      "t_final": "1:33.462",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:35.761",
+      "t_final": "1:35.761",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 50,
+      "name": "ANDRADE Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:36.046",
+      "t_final": "1:36.046",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 137,
+      "name": "DAILOFF Ramiro",
+      "rec": 0.0,
+      "rec_str": "1:36.932",
+      "t_final": "1:36.932",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "1:37.164",
+      "t_final": "1:37.164",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:37.581",
+      "t_final": "1:37.581",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 48,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "rec_str": "1:40.523",
+      "t_final": "1:40.523",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 69,
+      "name": "OVEJERO Facundo",
+      "rec": 0.0,
+      "rec_str": "1:40.832",
+      "t_final": "1:40.832",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 33,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:41.437",
+      "t_final": "1:41.437",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:41.725",
+      "t_final": "1:41.725",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 53,
+      "name": "PASCUAL Emanuel",
+      "rec": 6.0,
+      "rec_str": "1:40.524",
+      "t_final": "1:42.524",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": "Puesto + 2\" falsa largada"
+    },
+    {
+      "position": 12,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:43.698",
+      "t_final": "1:43.698",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

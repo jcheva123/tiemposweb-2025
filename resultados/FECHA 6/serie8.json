@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 3,
+      "name": "PEREZ MELER Agustin",
+      "rec": 0.0,
+      "rec_str": "1:16.798",
+      "t_final": "1:16.798",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:20.977",
+      "t_final": "1:20.977",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 112,
+      "name": "GOMEZ Agustin",
+      "rec": 0.0,
+      "rec_str": "1:22.221",
+      "t_final": "1:22.221",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 41,
+      "name": "CUTINI SAMOSIUK Sant",
+      "rec": 0.0,
+      "rec_str": "1:21.363",
+      "t_final": "1:22.363",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 54,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:23.618",
+      "t_final": "1:23.618",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 76,
+      "name": "LOPEZ Braian",
+      "rec": 0.0,
+      "rec_str": "1:23.969",
+      "t_final": "1:23.969",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:24.578",
+      "t_final": "1:24.578",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

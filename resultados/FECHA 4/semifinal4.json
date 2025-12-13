@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "rec_str": "1:34.946",
+      "t_final": "1:34.946",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "rec_str": "1:38.403",
+      "t_final": "1:38.403",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:39.878",
+      "t_final": "1:39.878",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:40.112",
+      "t_final": "1:40.112",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:41.415",
+      "t_final": "1:41.415",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 66,
+      "name": "YUNGBLUT Valentin",
+      "rec": 0.0,
+      "rec_str": "1:43.160",
+      "t_final": "1:43.160",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 24,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:43.316",
+      "t_final": "1:43.316",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:43.783",
+      "t_final": "1:43.783",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 40,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "rec_str": "1:42.852",
+      "t_final": "1:43.852",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 10,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:44.342",
+      "t_final": "1:44.342",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 94,
+      "name": "CHIESA Alejandro",
+      "rec": 0.0,
+      "rec_str": "1:48.367",
+      "t_final": "1:49.367",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 12,
+      "number": 23,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "rec_str": "1:49.548",
+      "t_final": "1:50.548",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}

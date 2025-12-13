@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 105,
+      "name": "ZABALEGUI Martin",
+      "rec": 0.0,
+      "rec_str": "1:35.709",
+      "t_final": "1:35.709",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "rec_str": "1:35.917",
+      "t_final": "1:35.917",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 21,
+      "name": "SCHMIT Nahuel",
+      "rec": 0.0,
+      "rec_str": "1:36.506",
+      "t_final": "1:36.506",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 50,
+      "name": "ANDRADE Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:37.117",
+      "t_final": "1:37.117",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 24,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:37.676",
+      "t_final": "1:37.676",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 33,
+      "name": "CAPUTO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:38.266",
+      "t_final": "1:38.266",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 39,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "rec_str": "1:38.740",
+      "t_final": "1:38.740",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:39.468",
+      "t_final": "1:39.468",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 95,
+      "name": "PALLOTTI Ivan",
+      "rec": 0.0,
+      "rec_str": "1:40.673",
+      "t_final": "1:40.673",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 58,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:41.076",
+      "t_final": "1:41.076",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 43,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "rec_str": "1:41.436",
+      "t_final": "1:41.436",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:41.742",
+      "t_final": "1:41.742",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
