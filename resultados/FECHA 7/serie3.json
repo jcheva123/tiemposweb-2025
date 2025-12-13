@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "rec_str": "1:19.097",
+      "t_final": "1:19.097",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "rec_str": "1:20.595",
+      "t_final": "1:20.595",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 50,
+      "name": "ANDRADE Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:22.006",
+      "t_final": "1:22.006",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 21,
+      "name": "SCHMIT Nahuel",
+      "rec": 5.0,
+      "rec_str": "1:20.596",
+      "t_final": "1:22.596",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": "Puesto + 2\" falsa largada"
+    },
+    {
+      "position": 5,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:22.949",
+      "t_final": "1:22.949",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 24,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:25.886",
+      "t_final": "1:25.886",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 78,
+      "name": "GONZALEZ Juan I",
+      "rec": 0.0,
+      "rec_str": "0:43.881",
+      "t_final": "0:43.881",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 95,
+      "name": "PALLOTTI Ivan",
+      "rec": 0.0,
+      "rec_str": "0:02.977",
+      "t_final": "0:02.977",
+      "laps": 0,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
