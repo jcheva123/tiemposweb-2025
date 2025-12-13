@@ -1,0 +1,127 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "rec_str": "1:03.095",
+      "t_final": "1:03.095",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:04.549",
+      "t_final": "1:04.549",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 46,
+      "name": "DUPONT Braian",
+      "rec": 0.0,
+      "rec_str": "1:05.080",
+      "t_final": "1:05.080",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 23,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "rec_str": "1:06.174",
+      "t_final": "1:06.174",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 31,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "rec_str": "1:06.633",
+      "t_final": "1:06.633",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:07.122",
+      "t_final": "1:07.122",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:07.614",
+      "t_final": "1:07.614",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:07.817",
+      "t_final": "1:07.817",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:08.213",
+      "t_final": "1:08.213",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 53,
+      "name": "PASCUAL Emanuel",
+      "rec": 0.0,
+      "rec_str": "1:09.039",
+      "t_final": "1:09.039",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 102,
+      "name": "TORRES Luciano",
+      "rec": 0.0,
+      "rec_str": "0:56.539",
+      "t_final": "0:56.539",
+      "laps": 3,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
