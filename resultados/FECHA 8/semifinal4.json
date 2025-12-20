@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 8,
+      "name": "ALTAMIRANO Kevin",
+      "rec": 0.0,
+      "rec_str": "1:36.019",
+      "t_final": "1:36.019",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:36.967",
+      "t_final": "1:36.967",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 14,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:38.175",
+      "t_final": "1:38.175",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 31,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "rec_str": "1:38.496",
+      "t_final": "1:38.496",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:37.498",
+      "t_final": "1:38.498",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:39.065",
+      "t_final": "1:39.065",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 43,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "rec_str": "1:39.711",
+      "t_final": "1:39.711",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 32,
+      "name": "MELGER Julian",
+      "rec": 0.0,
+      "rec_str": "1:40.063",
+      "t_final": "1:40.063",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:40.326",
+      "t_final": "1:40.326",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:40.947",
+      "t_final": "1:40.947",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 58,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:41.305",
+      "t_final": "1:41.305",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 78,
+      "name": "GONZALEZ Juan I",
+      "rec": 0.0,
+      "rec_str": "1:42.871",
+      "t_final": "1:44.871",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
