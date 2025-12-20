@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 1,
+      "name": "VALLEJOS Luciano",
+      "rec": 0.0,
+      "rec_str": "1:21.895",
+      "t_final": "1:21.895",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 15,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:24.350",
+      "t_final": "1:24.350",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 44,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "rec_str": "1:25.292",
+      "t_final": "1:25.292",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:27.226",
+      "t_final": "1:28.226",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 114,
+      "name": "CALVO Juan Ignacio",
+      "rec": 0.0,
+      "rec_str": "1:29.622",
+      "t_final": "1:29.622",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 110,
+      "name": "FORD Lautaro",
+      "rec": 0.0,
+      "rec_str": "1:32.353",
+      "t_final": "1:33.353",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 79,
+      "name": "LUCERO Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:35.927",
+      "t_final": "1:35.927",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
