@@ -1,0 +1,50 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 14,
+      "name": "SALDAMANDO Marrtin",
+      "rec": 0.0,
+      "rec_str": "1:23.115",
+      "t_final": "1:23.115",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 109,
+      "name": "CARDOSO Carlos",
+      "rec": 0.0,
+      "rec_str": "1:25.278",
+      "t_final": "1:25.278",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 66,
+      "name": "BERTOLINI Marcos",
+      "rec": 0.0,
+      "rec_str": "1:25.493",
+      "t_final": "1:25.493",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 115,
+      "name": "BOZETTI Ivano",
+      "rec": 0.0,
+      "rec_str": "1:26.982",
+      "t_final": "1:30.982",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
