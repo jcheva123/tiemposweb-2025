@@ -1,0 +1,50 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 78,
+      "name": "BLANC Lucas",
+      "rec": 0.0,
+      "rec_str": "1:23.649",
+      "t_final": "1:23.649",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 114,
+      "name": "GOMEZ Mauricio",
+      "rec": 0.0,
+      "rec_str": "1:26.116",
+      "t_final": "1:26.116",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 11,
+      "name": "MANCINI Nestor",
+      "rec": 0.0,
+      "rec_str": "1:25.361",
+      "t_final": "1:26.361",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 43,
+      "name": "ROSINI Nestor",
+      "rec": 0.0,
+      "rec_str": "0:02.596",
+      "t_final": "0:02.596",
+      "laps": 0,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
