@@ -1,0 +1,50 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 5,
+      "name": "MONTEROS Julio",
+      "rec": 0.0,
+      "rec_str": "1:19.802",
+      "t_final": "1:19.802",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 75,
+      "name": "BENITEZ Matias",
+      "rec": 0.0,
+      "rec_str": "1:21.933",
+      "t_final": "1:21.933",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 105,
+      "name": "PALACIOS Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:22.153",
+      "t_final": "1:23.153",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 60,
+      "name": "MOYANO Antorio",
+      "rec": 0.0,
+      "rec_str": "1:26.008",
+      "t_final": "1:26.008",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
