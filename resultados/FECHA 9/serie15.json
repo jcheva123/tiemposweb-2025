@@ -1,0 +1,50 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 65,
+      "name": "PERUGINI Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:20.505",
+      "t_final": "1:20.505",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 8,
+      "name": "GRILL Leiza",
+      "rec": 0.0,
+      "rec_str": "1:22.846",
+      "t_final": "1:22.846",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 32,
+      "name": "ANTONELLI Emiliano",
+      "rec": 0.0,
+      "rec_str": "1:23.927",
+      "t_final": "1:23.927",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 9,
+      "name": "MOLINI Hernan",
+      "rec": 0.0,
+      "rec_str": "1:25.532",
+      "t_final": "1:25.532",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

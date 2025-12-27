@@ -1,0 +1,50 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 50,
+      "name": "ANDRADE Diego",
+      "rec": 0.0,
+      "rec_str": "1:22.649",
+      "t_final": "1:22.649",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 113,
+      "name": "DE ACHARAN Juan",
+      "rec": 0.0,
+      "rec_str": "1:24.291",
+      "t_final": "1:24.291",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 102,
+      "name": "LAGUZZI Lucas",
+      "rec": 0.0,
+      "rec_str": "1:25.313",
+      "t_final": "1:25.313",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 48,
+      "name": "CAMPOS Leandro",
+      "rec": 0.0,
+      "rec_str": "1:22.948",
+      "t_final": "1:25.948",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
