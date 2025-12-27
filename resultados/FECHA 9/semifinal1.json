@@ -1,0 +1,105 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 28,
+      "name": "URRETABISCAYA Emiliano",
+      "rec": 0.0,
+      "rec_str": "1:42.180",
+      "t_final": "1:42.180",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 98,
+      "name": "FRITZ Javier",
+      "rec": 0.0,
+      "rec_str": "1:44.572",
+      "t_final": "1:44.572",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 12,
+      "name": "SALABERRY Matias",
+      "rec": 0.0,
+      "rec_str": "1:45.011",
+      "t_final": "1:45.011",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 33,
+      "name": "RAMOS Leonel",
+      "rec": 0.0,
+      "rec_str": "1:45.166",
+      "t_final": "1:46.166",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 47,
+      "name": "CAMPOS Leandro",
+      "rec": 0.0,
+      "rec_str": "1:46.462",
+      "t_final": "1:46.462",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 112,
+      "name": "TRONCOSO Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:48.148",
+      "t_final": "1:48.148",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 127,
+      "name": "CARBONE Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:48.642",
+      "t_final": "1:48.642",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 11,
+      "name": "MANCINI Nestor",
+      "rec": 0.0,
+      "rec_str": "1:52.356",
+      "t_final": "1:54.356",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 9,
+      "number": 26,
+      "name": "BREZINA Federico",
+      "rec": 0.0,
+      "rec_str": "0:39.596",
+      "t_final": "0:39.596",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}

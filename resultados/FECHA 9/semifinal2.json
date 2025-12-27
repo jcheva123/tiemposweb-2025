@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 29,
+      "name": "ANDRADA Juan",
+      "rec": 0.0,
+      "rec_str": "1:41.879",
+      "t_final": "1:41.879",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 1,
+      "name": "VALLEJOS Luis",
+      "rec": 0.0,
+      "rec_str": "1:42.850",
+      "t_final": "1:42.850",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 48,
+      "name": "CAMPOS Leandro",
+      "rec": 0.0,
+      "rec_str": "1:43.491",
+      "t_final": "1:43.491",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 65,
+      "name": "PERUGINI Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:45.131",
+      "t_final": "1:45.131",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 75,
+      "name": "BENITEZ Matias",
+      "rec": 0.0,
+      "rec_str": "1:46.540",
+      "t_final": "1:46.540",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 8,
+      "name": "GRILL Leiza",
+      "rec": 0.0,
+      "rec_str": "1:46.613",
+      "t_final": "1:46.613",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 104,
+      "name": "COSSU Juan",
+      "rec": 0.0,
+      "rec_str": "1:46.706",
+      "t_final": "1:46.706",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 36,
+      "name": "GIMENEZ Hugo",
+      "rec": 0.0,
+      "rec_str": "1:49.680",
+      "t_final": "1:49.680",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 54,
+      "name": "ORTIZ MEDINA Francisco",
+      "rec": 0.0,
+      "rec_str": "1:49.890",
+      "t_final": "1:49.890",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 113,
+      "name": "DE ACHARAN Juan",
+      "rec": 0.0,
+      "rec_str": "1:48.604",
+      "t_final": "1:52.604",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 11,
+      "number": 44,
+      "name": "LARREGUI Tobias",
+      "rec": 0.0,
+      "rec_str": "1:52.808",
+      "t_final": "1:52.808",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 46,
+      "name": "DUPONT Bruno",
+      "rec": 0.0,
+      "rec_str": "1:45.951",
+      "t_final": "1:45.951",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
