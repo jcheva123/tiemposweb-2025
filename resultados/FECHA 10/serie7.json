@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:17.914",
+      "t_final": "1:17.914",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:18.216",
+      "t_final": "1:18.216",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 9,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:19.133",
+      "t_final": "1:19.133",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:17.486",
+      "t_final": "1:19.486",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 48,
+      "name": "YUROVSKY Guillermo",
+      "rec": 0.0,
+      "rec_str": "1:19.835",
+      "t_final": "1:19.835",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:20.906",
+      "t_final": "1:20.906",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 24,
+      "name": "AUSILI Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:21.370",
+      "t_final": "1:21.370",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
