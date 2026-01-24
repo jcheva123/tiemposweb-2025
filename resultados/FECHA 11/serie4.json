@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 6,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:18.935",
+      "t_final": "1:18.935",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:23.610",
+      "t_final": "1:23.610",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:24.486",
+      "t_final": "1:24.486",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:24.795",
+      "t_final": "1:24.795",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 95,
+      "name": "PALLOTTI Ivan",
+      "rec": 0.0,
+      "rec_str": "1:24.158",
+      "t_final": "1:26.158",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 57,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:27.315",
+      "t_final": "1:27.315",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 75,
+      "name": "BENITEZ Gaston",
+      "rec": 0.0,
+      "rec_str": "1:27.595",
+      "t_final": "1:27.595",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
