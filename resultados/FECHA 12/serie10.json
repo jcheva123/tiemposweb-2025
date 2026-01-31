@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:20.020",
+      "t_final": "1:20.020",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 119,
+      "name": "RAMOS Leonel",
+      "rec": 0.0,
+      "rec_str": "1:21.417",
+      "t_final": "1:21.417",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 98,
+      "name": "FRITZ Jorge",
+      "rec": 0.0,
+      "rec_str": "1:20.962",
+      "t_final": "1:21.962",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 4,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "rec_str": "1:22.095",
+      "t_final": "1:22.095",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:23.066",
+      "t_final": "1:23.066",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 54,
+      "name": "TOLEDO Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:24.749",
+      "t_final": "1:24.749",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 142,
+      "name": "OLIVERA Rodrigo",
+      "rec": 0.0,
+      "rec_str": "0:51.349",
+      "t_final": "0:52.349",
+      "laps": 3,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    }
+  ]
+}
