@@ -1,0 +1,94 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "rec_str": "1:18.910",
+      "t_final": "1:18.910",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 23,
+      "name": "PIÑEYRO Julio Cesar",
+      "rec": 0.0,
+      "rec_str": "1:19.436",
+      "t_final": "1:19.436",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:20.245",
+      "t_final": "1:20.245",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:20.731",
+      "t_final": "1:20.731",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 40,
+      "name": "BALDUCHI Valentin",
+      "rec": 0.0,
+      "rec_str": "1:22.437",
+      "t_final": "1:23.437",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 38,
+      "name": "MADRIL Braian",
+      "rec": 0.0,
+      "rec_str": "1:24.835",
+      "t_final": "1:24.835",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 44,
+      "name": "MARCOS Nehuen",
+      "rec": 0.0,
+      "rec_str": "0:38.677",
+      "t_final": "0:38.677",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 102,
+      "name": "TORRES Luciano",
+      "rec": 0.0,
+      "rec_str": "0:25.103",
+      "t_final": "0:25.103",
+      "laps": 1,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
