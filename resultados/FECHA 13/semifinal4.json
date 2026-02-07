@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 123,
+      "name": "COLANERI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:35.891",
+      "t_final": "1:35.891",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 39,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "rec_str": "1:36.630",
+      "t_final": "1:36.630",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:36.896",
+      "t_final": "1:36.896",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:37.294",
+      "t_final": "1:37.294",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 6,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:37.563",
+      "t_final": "1:37.563",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 15,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:38.316",
+      "t_final": "1:38.316",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:38.729",
+      "t_final": "1:38.729",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 26,
+      "name": "BREZINA Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:39.576",
+      "t_final": "1:39.576",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 67,
+      "name": "HOCK Gaston",
+      "rec": 0.0,
+      "rec_str": "1:40.234",
+      "t_final": "1:41.234",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 10,
+      "number": 58,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:43.237",
+      "t_final": "1:43.237",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 63,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "rec_str": "1:43.859",
+      "t_final": "1:43.859",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 113,
+      "name": "MARCO Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:44.171",
+      "t_final": "1:44.171",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
