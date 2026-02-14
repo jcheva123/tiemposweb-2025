@@ -1,0 +1,72 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "rec_str": "1:18.814",
+      "t_final": "1:18.814",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:19.600",
+      "t_final": "1:19.600",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:20.096",
+      "t_final": "1:20.096",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 76,
+      "name": "LOPEZ Braian",
+      "rec": 0.0,
+      "rec_str": "1:21.760",
+      "t_final": "1:21.760",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:22.892",
+      "t_final": "1:22.892",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 113,
+      "name": "MARCO Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:23.859",
+      "t_final": "1:23.859",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
