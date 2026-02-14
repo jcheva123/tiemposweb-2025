@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:41.931",
+      "t_final": "1:41.931",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "rec_str": "1:43.508",
+      "t_final": "1:43.508",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:45.995",
+      "t_final": "1:45.995",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 7,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "rec_str": "1:46.242",
+      "t_final": "1:46.242",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 6,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:46.622",
+      "t_final": "1:46.622",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:46.143",
+      "t_final": "1:47.143",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 7,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:47.347",
+      "t_final": "1:47.347",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 76,
+      "name": "LOPEZ Braian",
+      "rec": 0.0,
+      "rec_str": "1:47.986",
+      "t_final": "1:47.986",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 39,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "rec_str": "1:48.514",
+      "t_final": "1:48.514",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:48.815",
+      "t_final": "1:48.815",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:27.001",
+      "t_final": "1:27.001",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 69,
+      "name": "OVEJERO Facundo",
+      "rec": 0.0,
+      "rec_str": null,
+      "t_final": null,
+      "laps": 20,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
