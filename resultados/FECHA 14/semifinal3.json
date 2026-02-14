@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 9,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:37.646",
+      "t_final": "1:37.646",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 123,
+      "name": "COLANERI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:40.242",
+      "t_final": "1:40.242",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 137,
+      "name": "DAILOFF Ramiro",
+      "rec": 0.0,
+      "rec_str": "1:40.324",
+      "t_final": "1:40.324",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:42.104",
+      "t_final": "1:42.104",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 39,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "rec_str": "1:42.511",
+      "t_final": "1:42.511",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 12,
+      "name": "REY Javier",
+      "rec": 0.0,
+      "rec_str": "1:42.779",
+      "t_final": "1:42.779",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:43.175",
+      "t_final": "1:43.175",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 51,
+      "name": "ONORATO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:43.801",
+      "t_final": "1:43.801",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:45.493",
+      "t_final": "1:45.493",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 45,
+      "name": "PETRACCI Gaston",
+      "rec": 0.0,
+      "rec_str": "1:44.659",
+      "t_final": "1:45.659",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 11,
+      "number": 53,
+      "name": "PASCUAL Emanuel",
+      "rec": 0.0,
+      "rec_str": "1:46.101",
+      "t_final": "1:46.101",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 134,
+      "name": "MONTANARI Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:49.227",
+      "t_final": "1:49.227",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
