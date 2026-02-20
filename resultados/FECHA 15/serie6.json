@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 20,
+      "name": "PEREZ Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:19.706",
+      "t_final": "1:19.706",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 27,
+      "name": "AUSILI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:22.646",
+      "t_final": "1:22.646",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 65,
+      "name": "ALZA Pablo",
+      "rec": 0.0,
+      "rec_str": "1:23.280",
+      "t_final": "1:23.280",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 63,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "rec_str": "1:23.554",
+      "t_final": "1:23.554",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 49,
+      "name": "PERUGINI Flavio",
+      "rec": 0.0,
+      "rec_str": "1:23.803",
+      "t_final": "1:23.803",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 79,
+      "name": "LUCERO Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:24.915",
+      "t_final": "1:24.915",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 57,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:25.957",
+      "t_final": "1:25.957",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
