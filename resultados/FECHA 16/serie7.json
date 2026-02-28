@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:19.862",
+      "t_final": "1:19.862",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:21.501",
+      "t_final": "1:21.501",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 76,
+      "name": "LOPEZ Braian",
+      "rec": 0.0,
+      "rec_str": "1:22.757",
+      "t_final": "1:22.757",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 116,
+      "name": "ZUBELDIA Rodrigo",
+      "rec": 0.0,
+      "rec_str": "1:22.841",
+      "t_final": "1:23.841",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 53,
+      "name": "PASCUAL Emanuel",
+      "rec": 0.0,
+      "rec_str": "1:24.161",
+      "t_final": "1:24.161",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 57,
+      "name": "RAZQUIN Gonzalo",
+      "rec": 0.0,
+      "rec_str": "1:25.670",
+      "t_final": "1:25.670",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 78,
+      "name": "GONZALEZ Juan I",
+      "rec": 0.0,
+      "rec_str": "1:10.065",
+      "t_final": "1:10.065",
+      "laps": 4,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
