@@ -1,0 +1,83 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 14,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:37.828",
+      "t_final": "1:37.828",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 28,
+      "name": "ANASTASIO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:38.715",
+      "t_final": "1:38.715",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 134,
+      "name": "MONTANARI Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:39.232",
+      "t_final": "1:39.232",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 36,
+      "name": "MACAZAGA Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:40.762",
+      "t_final": "1:40.762",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 127,
+      "name": "GRILL Lucas",
+      "rec": 0.0,
+      "rec_str": "1:41.367",
+      "t_final": "1:41.367",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:41.537",
+      "t_final": "1:41.537",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 111,
+      "name": "BRAY Juan P",
+      "rec": 0.0,
+      "rec_str": "0:39.036",
+      "t_final": "0:39.036",
+      "laps": 2,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
