@@ -1,0 +1,127 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 7,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "rec_str": "1:36.425",
+      "t_final": "1:36.425",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 31,
+      "name": "PUCCINELLI Carlos",
+      "rec": 0.0,
+      "rec_str": "1:39.118",
+      "t_final": "1:39.118",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:39.439",
+      "t_final": "1:39.439",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 14,
+      "name": "SALDAMANDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:38.555",
+      "t_final": "1:39.555",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 22,
+      "name": "BONIVARDO Fernando",
+      "rec": 0.0,
+      "rec_str": "1:39.754",
+      "t_final": "1:39.754",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 32,
+      "name": "MELGER Julian",
+      "rec": 0.0,
+      "rec_str": "1:40.528",
+      "t_final": "1:40.528",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:41.449",
+      "t_final": "1:41.449",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 53,
+      "name": "PASCUAL Emanuel",
+      "rec": 0.0,
+      "rec_str": "1:42.649",
+      "t_final": "1:42.649",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 19,
+      "name": "TODINO Juan",
+      "rec": 0.0,
+      "rec_str": "1:40.940",
+      "t_final": "1:43.940",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 10,
+      "number": 123,
+      "name": "COLANERI Agustin",
+      "rec": 0.0,
+      "rec_str": "1:45.409",
+      "t_final": "1:45.409",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 76,
+      "name": "LOPEZ Braian",
+      "rec": 0.0,
+      "rec_str": "1:46.999",
+      "t_final": "1:46.999",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
