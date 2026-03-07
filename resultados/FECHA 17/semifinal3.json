@@ -1,0 +1,138 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 2,
+      "name": "FRANCHI Luciano",
+      "rec": 0.0,
+      "rec_str": "1:36.074",
+      "t_final": "1:36.074",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 9,
+      "name": "OYOLA Matias Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:37.161",
+      "t_final": "1:37.161",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 15,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:38.271",
+      "t_final": "1:38.271",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:39.022",
+      "t_final": "1:39.022",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 6,
+      "name": "BURGOS Sebastian",
+      "rec": 0.0,
+      "rec_str": "1:38.778",
+      "t_final": "1:39.778",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 6,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:40.817",
+      "t_final": "1:40.817",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 29,
+      "name": "GARCIA Joaquin",
+      "rec": 0.0,
+      "rec_str": "1:41.132",
+      "t_final": "1:41.132",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": "2aper.x toque carrera finalizada"
+    },
+    {
+      "position": 8,
+      "number": 105,
+      "name": "ZABALEGUI Martin",
+      "rec": 0.0,
+      "rec_str": "1:41.657",
+      "t_final": "1:41.657",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 56,
+      "name": "CHIAPARO Nicolas",
+      "rec": 0.0,
+      "rec_str": "1:42.897",
+      "t_final": "1:42.897",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 58,
+      "name": "PEREZ Marcelo",
+      "rec": 0.0,
+      "rec_str": "1:43.712",
+      "t_final": "1:43.712",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 11,
+      "number": 47,
+      "name": "CUTINI Gustavo",
+      "rec": 0.0,
+      "rec_str": "1:43.980",
+      "t_final": "1:43.980",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 12,
+      "number": 115,
+      "name": "LOPEZ Agustin",
+      "rec": 0.0,
+      "rec_str": "1:45.261",
+      "t_final": "1:45.261",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
