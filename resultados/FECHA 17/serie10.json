@@ -1,0 +1,61 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 4,
+      "name": "ROTH Claudio",
+      "rec": 0.0,
+      "rec_str": "1:20.543",
+      "t_final": "1:21.543",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 2,
+      "number": 16,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "rec_str": "1:21.814",
+      "t_final": "1:21.814",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 32,
+      "name": "MELGER Julian",
+      "rec": 0.0,
+      "rec_str": "1:22.303",
+      "t_final": "1:22.303",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 111,
+      "name": "BRAY Juan P",
+      "rec": 0.0,
+      "rec_str": "1:28.832",
+      "t_final": "1:31.832",
+      "laps": 5,
+      "penalty": null,
+      "penalty_note": "Cono(s)"
+    },
+    {
+      "position": 5,
+      "number": 39,
+      "name": "PAGLIALUNGA Eros",
+      "rec": 0.0,
+      "rec_str": "0:03.723",
+      "t_final": "0:03.723",
+      "laps": 0,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
