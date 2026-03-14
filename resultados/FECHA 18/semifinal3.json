@@ -1,0 +1,116 @@
+{
+  "date": null,
+  "time": null,
+  "results": [
+    {
+      "position": 1,
+      "number": 11,
+      "name": "MANCINI Esteban",
+      "rec": 0.0,
+      "rec_str": "1:36.025",
+      "t_final": "1:36.025",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 2,
+      "number": 7,
+      "name": "ROTH Ezequiel",
+      "rec": 0.0,
+      "rec_str": "1:37.642",
+      "t_final": "1:37.642",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 3,
+      "number": 16,
+      "name": "RODRIGUEZ Juan Cruz",
+      "rec": 0.0,
+      "rec_str": "1:39.536",
+      "t_final": "1:39.536",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 4,
+      "number": 18,
+      "name": "SCHIEBELBEIN Gabriel",
+      "rec": 0.0,
+      "rec_str": "1:39.785",
+      "t_final": "1:39.785",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 5,
+      "number": 30,
+      "name": "RESOLA Johnatan",
+      "rec": 0.0,
+      "rec_str": "1:40.703",
+      "t_final": "1:40.703",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 6,
+      "number": 15,
+      "name": "HIDALGO Federico",
+      "rec": 0.0,
+      "rec_str": "1:40.914",
+      "t_final": "1:40.914",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 7,
+      "number": 43,
+      "name": "COLTURI Fabian",
+      "rec": 0.0,
+      "rec_str": "1:42.097",
+      "t_final": "1:42.097",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 8,
+      "number": 111,
+      "name": "BRAY Juan P",
+      "rec": 0.0,
+      "rec_str": "1:42.549",
+      "t_final": "1:42.549",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 9,
+      "number": 94,
+      "name": "CHIESA Alejandro",
+      "rec": 0.0,
+      "rec_str": "1:43.398",
+      "t_final": "1:43.398",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    },
+    {
+      "position": 10,
+      "number": 63,
+      "name": "JACA Aaron",
+      "rec": 0.0,
+      "rec_str": "1:44.213",
+      "t_final": "1:44.213",
+      "laps": 6,
+      "penalty": null,
+      "penalty_note": null
+    }
+  ]
+}
