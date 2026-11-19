@@ -151,16 +151,22 @@ def main():
             print("2. Retirar una carrera")
             print("3. Retirar una fecha completa")
             print("4. Reintentar un envío pendiente")
+            print("5. Publicar orden de partida")
             action = input("Elegí una opción (Enter para publicar): ").strip() or "1"
         else:
             action = "1"
+        if action == "5":
+            from publicar_series import main as publicar_orden
+
+            publicar_orden()
+            return
         if action == "4":
             sincronizar()
             enviar_a_github()
             print("Envío confirmado en GitHub.")
             return
         if action not in {"1", "2", "3"}:
-            raise ValueError("Elegí 1, 2, 3 o 4.")
+            raise ValueError("Elegí una opción del 1 al 5.")
         fecha = args.fecha if args.fecha is not None else int(input("Número de la carpeta de fecha (01, 02, 03...): "))
         if not 1 <= fecha <= 99:
             raise ValueError("Ingresá un número de fecha entre 01 y 99.")
