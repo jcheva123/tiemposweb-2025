@@ -62,7 +62,7 @@ def main():
     parser.add_argument("fecha", nargs="?", type=int)
     args = parser.parse_args()
     try:
-        fecha = args.fecha if args.fecha is not None else int(input("Número de fecha del Estival: "))
+        fecha = args.fecha if args.fecha is not None else int(input("Número de la carpeta de fecha (01, 02, 03...): "))
         if not 1 <= fecha <= 99:
             raise ValueError("Ingresá un número de fecha entre 1 y 99.")
         os.chdir(REPO)
