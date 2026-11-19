@@ -453,9 +453,3 @@ if __name__ == "__main__":
     process_pdfs()
     # 2) Reconstruir/limpiar manifiestos para reflejar deletions/moves
     rebuild_manifests_from_disk()
-    # 3) Intentar subir si tenés el helper local
-    try:
-        import subir_jsons
-        subir_jsons.subir_jsons()
-    except Exception as e:
-        print(f"Aviso: no pude ejecutar subir_jsons aquí ({e}).")
